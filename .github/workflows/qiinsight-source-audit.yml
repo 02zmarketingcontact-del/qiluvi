@@ -18,7 +18,7 @@ jobs:
         run: node scripts/check-qiinsight-sources.cjs
       - name: Probe all registered source homepages for connectivity and feed discovery
         env:
-          QIINSIGHT_LIMIT: '232'
+          QIINSIGHT_LIMIT: '500'
         run: node scripts/qiinsight-source-audit.cjs
       - name: Upload audit artifact (no auto-publish)
         uses: actions/upload-artifact@v4
