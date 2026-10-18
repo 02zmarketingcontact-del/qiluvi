@@ -39,3 +39,9 @@ Before competing on breadth: provide 1) traceable research, 2) decision-ready ou
 
 ## Operating safeguards
 No 12 independent AI agents or continuous background operations are claimed by this file; roles are functional responsibilities. No scheduling system exists solely because a plan or workflow YAML was written. Current status is recorded in EXECUTIVE_STATUS.md.
+
+## GitHub implementation update — 18 Oct 2026
+- PR [#1](https://github.com/02zmarketingcontact-del/qiluvi/pull/1) was merged as commit `fad3ebfa63801ec464ffa4ffaabe06f05e7a7f21`.
+- [Static QA on main](https://github.com/02zmarketingcontact-del/qiluvi/actions/runs/39095532280): **SUCCESS**.
+- [GitHub Pages build and deployment](https://github.com/02zmarketingcontact-del/qiluvi/actions/runs/39095532156): **SUCCESS**.
+- Separate live HTTP multi-path verification is being added; treat public path verification as **PENDING** until the smoke run succeeds. Visual/device QA is still outstanding.
