@@ -1,5 +1,12 @@
 name: QiInsight Source Audit Pilot
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/qiinsight/sources.json'
+      - 'scripts/check-qiinsight-sources.cjs'
+      - 'scripts/qiinsight-source-audit.cjs'
+      - '.github/workflows/qiinsight-source-audit.yml'
   workflow_dispatch:
   schedule:
     - cron: '17 2 * * *'
