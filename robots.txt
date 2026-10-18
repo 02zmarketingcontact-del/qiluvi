@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://02zmarketingcontact-del.github.io/qiluvi/sitemap.xml
