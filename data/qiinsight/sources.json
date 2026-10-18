@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "source_id": "gso",
+      "publisher": "Cục Thống kê Việt Nam",
+      "official_url": "https://www.nso.gov.vn/",
+      "source_type": "official_statistics",
+      "language": [
+        "vi"
+      ],
+      "industry": [
+        "economy",
+        "investment"
+      ],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "feed_url": null,
+      "terms_url": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Official source identity candidate; specific page rights and API access not yet reviewed."
+    },
+    {
+      "source_id": "mof",
+      "publisher": "Bộ Tài chính Việt Nam",
+      "official_url": "https://mof.gov.vn/",
+      "source_type": "government",
+      "language": [
+        "vi"
+      ],
+      "industry": [
+        "finance",
+        "investment"
+      ],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "feed_url": null,
+      "terms_url": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Official source candidate; permissions not verified."
+    },
+    {
+      "source_id": "vbpl",
+      "publisher": "Cơ sở dữ liệu quốc gia về văn bản pháp luật",
+      "official_url": "https://vbpl.vn/",
+      "source_type": "legal_primary",
+      "language": [
+        "vi"
+      ],
+      "industry": [
+        "law"
+      ],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "feed_url": null,
+      "terms_url": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Verify validity and amendments per document; site terms pending."
+    }
+  ]
+}
