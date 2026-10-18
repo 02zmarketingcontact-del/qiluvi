@@ -9,6 +9,7 @@ const limit=Math.max(1,Math.min(sources.length,Number(process.env.QIINSIGHT_LIMI
 const timeout=Math.max(2000,Math.min(15000,Number(process.env.QIINSIGHT_TIMEOUT_MS||7000)));
 const candidates=sources.filter(s=>s.license_status!=='PROHIBITED').slice(0,limit);
 const results=[];
+console.log('QiInsight audit started:',new Date().toISOString(),'sources:',candidates.length);
 async function check(s){
  const started=Date.now();const controller=new AbortController();const timer=setTimeout(()=>controller.abort(),timeout);
  try{
