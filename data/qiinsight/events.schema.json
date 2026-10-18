@@ -1,0 +1,215 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "QiInsight event record",
+  "type": "object",
+  "required": [
+    "event_id",
+    "status",
+    "claims",
+    "locales"
+  ],
+  "properties": {
+    "event_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "status": {
+      "enum": [
+        "CANDIDATE",
+        "FACT_CHECK",
+        "EDITORIAL_REVIEW",
+        "APPROVED",
+        "REJECTED"
+      ]
+    },
+    "event_date": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date"
+    },
+    "topics": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "claims": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "claim_id",
+          "statement",
+          "source_urls",
+          "verification_status"
+        ],
+        "properties": {
+          "claim_id": {
+            "type": "string"
+          },
+          "statement": {
+            "type": "string"
+          },
+          "source_urls": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "format": "uri"
+            }
+          },
+          "verification_status": {
+            "enum": [
+              "UNVERIFIED",
+              "CORROBORATED",
+              "PRIMARY_VERIFIED",
+              "CONFLICTED"
+            ]
+          }
+        }
+      }
+    },
+    "locales": {
+      "type": "object",
+      "required": [
+        "vi-VN",
+        "en",
+        "zh-CN",
+        "zh-TW"
+      ],
+      "properties": {
+        "vi-VN": {
+          "type": "object",
+          "required": [
+            "status"
+          ],
+          "properties": {
+            "status": {
+              "enum": [
+                "DRAFT",
+                "REVIEWED",
+                "PUBLISHED",
+                "MISSING"
+              ]
+            },
+            "slug": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "title": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          }
+        },
+        "en": {
+          "type": "object",
+          "required": [
+            "status"
+          ],
+          "properties": {
+            "status": {
+              "enum": [
+                "DRAFT",
+                "REVIEWED",
+                "PUBLISHED",
+                "MISSING"
+              ]
+            },
+            "slug": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "title": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          }
+        },
+        "zh-CN": {
+          "type": "object",
+          "required": [
+            "status"
+          ],
+          "properties": {
+            "status": {
+              "enum": [
+                "DRAFT",
+                "REVIEWED",
+                "PUBLISHED",
+                "MISSING"
+              ]
+            },
+            "slug": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "title": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          }
+        },
+        "zh-TW": {
+          "type": "object",
+          "required": [
+            "status"
+          ],
+          "properties": {
+            "status": {
+              "enum": [
+                "DRAFT",
+                "REVIEWED",
+                "PUBLISHED",
+                "MISSING"
+              ]
+            },
+            "slug": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "title": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "rights_status": {
+      "enum": [
+        "LICENSED",
+        "OPEN_LICENSE",
+        "FACTS_ONLY",
+        "LINK_ONLY",
+        "RIGHTS_REVIEW",
+        "PROHIBITED"
+      ]
+    },
+    "source_item_urls": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "format": "uri"
+      }
+    }
+  },
+  "additionalProperties": false
+}
