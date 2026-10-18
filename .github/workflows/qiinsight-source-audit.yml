@@ -8,7 +8,7 @@ permissions:
 jobs:
   source-audit:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 55
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -16,9 +16,9 @@ jobs:
           node-version: '22'
       - name: Validate source registry
         run: node scripts/check-qiinsight-sources.cjs
-      - name: Probe first 10 source homepages for connectivity and feed discovery
+      - name: Probe all registered source homepages for connectivity and feed discovery
         env:
-          QIINSIGHT_LIMIT: '10'
+          QIINSIGHT_LIMIT: '232'
         run: node scripts/qiinsight-source-audit.cjs
       - name: Upload audit artifact (no auto-publish)
         uses: actions/upload-artifact@v4
