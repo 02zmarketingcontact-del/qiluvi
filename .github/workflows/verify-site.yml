@@ -1,0 +1,29 @@
+name: Verify QILUVI Website
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/verify-site.yml'
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check public GitHub Pages URL
+        shell: bash
+        run: |
+          set -euo pipefail
+          URL="https://02zmarketingcontact-del.github.io/qiluvi/"
+          echo "Checking $URL"
+          for attempt in 1 2 3 4 5; do
+            code=$(curl --location --silent --show-error --max-time 25 --output /tmp/qiluvi-site.html --write-out '%{http_code}' "$URL" || true)
+            echo "Attempt $attempt HTTP status: $code"
+            if [ "$code" = "200" ] && grep -q "QILUVI" /tmp/qiluvi-site.html; then
+              echo "PASS: Public site reachable and QILUVI content present."
+              exit 0
+            fi
+            sleep 12
+          done
+          echo "FAIL: Public website not reachable with QILUVI content."
+          exit 1
