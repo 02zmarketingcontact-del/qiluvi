@@ -68,7 +68,7 @@ function checkPage(file){
      !html.includes('hreflang="zh-CN"') || !html.includes('hreflang="zh-TW"'))err(rel+': incomplete language alternates');
   if(!html.includes('canonical'))err(rel+': no canonical');
   if(rel!=='index.html' && !html.includes('assets/v6-site.css'))err(rel+': missing shared stylesheet');
-  const hasContactRoute=links.some(m => /(^|\\/)contact\\/$/.test(m[1].split('#')[0]) || m[1]==='#contact');
+  const hasContactRoute=links.some(m => m[1]==='#contact' || m[1].split('#')[0].endsWith('contact/'));
   if(!hasContactRoute)err(rel+': no navigable contact route');
 }
 scanDir(root);
