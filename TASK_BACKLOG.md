@@ -19,8 +19,8 @@ Statuses: COMPLETE = actual evidence exists; DRAFT = implementation artifact exi
 | P0-14 | P0 | Site | Localized EN/CN/TW homepages | DRAFT | 3 localized home routes | Language UI and CSS QA |
 | P0-15 | P0 | Site | Reuse existing homepage and link 5 service pages | DRAFT | index.html on feature branch | Preserve QiMap and original logo |
 | P0-16 | P0 | Site | Add site QA script, workflow, sitemap and robots | IN PROGRESS | scripts/check-v6-site.cjs etc. | CI success and link QA |
-| P0-17 | P0 | GitHub | Create safe PR against main | IN PROGRESS | GitHub PR URL | Review diff and CI |
-| P0-18 | P0 | Deployment | Merge and validate live Pages | BLOCKED | PR merge + GitHub Pages/HTTP tests | 4 languages and five service pages live |
+| P0-17 | P0 | GitHub | Create safe PR against main | COMPLETE | GitHub PR URL | Review diff and CI |
+| P0-18 | P0 | Deployment | Merge and validate live Pages | NEEDS VERIFICATION | PR merge + GitHub Pages/HTTP tests | 4 languages and five service pages live |
 | P0-19 | P0 | Research | Validate 5+ real decision-maker interviews per service | NOT STARTED | Consent-backed field notes (private) | Verified buyer importance and willingness to pay |
 | P0-20 | P0 | Claims | Verify client-facing legal, investment, construction language | NEEDS VERIFICATION | Legal reviewer / qualified partner check | No material inaccurate regulated claims |
 | P1-01 | P1 | CRM | Secure pipeline + consent governance | DRAFT | templates/CRM_PIPELINE.md (template only) | Actual access-controlled private CRM |
@@ -31,3 +31,9 @@ Statuses: COMPLETE = actual evidence exists; DRAFT = implementation artifact exi
 | P2-01 | P2 | Research | Sector-deep paid data and subscription | NOT STARTED | Legal data license and customer demand | Cost justified by revenue |
 | P2-02 | P2 | Microsites | Separate domains for subbrands | NOT STARTED | Domain budget and routing plan | Only after measurable reason |
 | P2-03 | P2 | Automation | Approved periodic source and health monitoring | NOT STARTED | Explicit workflow schedule, permissions and test history | Real recurring successful runs |
+
+## GitHub implementation update — 18 Oct 2026
+- PR [#1](https://github.com/02zmarketingcontact-del/qiluvi/pull/1) was merged as commit `fad3ebfa63801ec464ffa4ffaabe06f05e7a7f21`.
+- [Static QA on main](https://github.com/02zmarketingcontact-del/qiluvi/actions/runs/39095532280): **SUCCESS**.
+- [GitHub Pages build and deployment](https://github.com/02zmarketingcontact-del/qiluvi/actions/runs/39095532156): **SUCCESS**.
+- Separate live HTTP multi-path verification is being added; treat public path verification as **PENDING** until the smoke run succeeds. Visual/device QA is still outstanding.

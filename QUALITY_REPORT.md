@@ -26,3 +26,9 @@ Misrepresenting transactions, foreign ownership, certified valuation, licensed c
 
 ## Pending technical verdict
 Do not mark full deployment COMPLETE until CI and public Pages pass. Record precise action runs and URLs in EXECUTIVE_STATUS.md after verification.
+
+## GitHub implementation update — 18 Oct 2026
+- PR [#1](https://github.com/02zmarketingcontact-del/qiluvi/pull/1) was merged as commit `fad3ebfa63801ec464ffa4ffaabe06f05e7a7f21`.
+- [Static QA on main](https://github.com/02zmarketingcontact-del/qiluvi/actions/runs/39095532280): **SUCCESS**.
+- [GitHub Pages build and deployment](https://github.com/02zmarketingcontact-del/qiluvi/actions/runs/39095532156): **SUCCESS**.
+- Separate live HTTP multi-path verification is being added; treat public path verification as **PENDING** until the smoke run succeeds. Visual/device QA is still outstanding.
