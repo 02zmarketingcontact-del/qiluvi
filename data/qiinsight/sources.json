@@ -1677,6 +1677,3126 @@
       "last_reviewed_at": null,
       "last_successful_fetch": null,
       "reliability_notes": "Discovery candidate only; URL/terms/feed and rights require individual verification before automation."
+    },
+    {
+      "source_id": "baochinhphu",
+      "publisher": "Báo Chính phủ",
+      "official_url": "https://baochinhphu.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "vtv",
+      "publisher": "VTV",
+      "official_url": "https://vtv.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "vov",
+      "publisher": "VOV",
+      "official_url": "https://vov.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "vovworld",
+      "publisher": "VOV World",
+      "official_url": "https://vovworld.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "vietnamfinance",
+      "publisher": "VietnamFinance",
+      "official_url": "https://vietnamfinance.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "diendandoanhnghiep",
+      "publisher": "Diễn đàn Doanh nghiệp",
+      "official_url": "https://diendandoanhnghiep.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "doanhnhansaigon",
+      "publisher": "Doanh Nhân Sài Gòn",
+      "official_url": "https://doanhnhansaigon.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "doanhnghieptiepthi",
+      "publisher": "Doanh nghiệp và Tiếp thị",
+      "official_url": "https://doanhnghieptiepthi.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "kinhtedothi",
+      "publisher": "Kinh tế & Đô thị",
+      "official_url": "https://kinhtedothi.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "sggp",
+      "publisher": "Sài Gòn Giải Phóng",
+      "official_url": "https://www.sggp.org.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "nguoiduatin",
+      "publisher": "Người Đưa Tin",
+      "official_url": "https://www.nguoiduatin.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "tienphong",
+      "publisher": "Tiền Phong",
+      "official_url": "https://tienphong.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "nongnghiepmoitruong",
+      "publisher": "Nông nghiệp và Môi trường",
+      "official_url": "https://nongnghiepmoitruong.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "vietnamnet_en",
+      "publisher": "VietNamNet English",
+      "official_url": "https://vietnamnet.vn/en",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "vnexpress_en",
+      "publisher": "VnExpress International",
+      "official_url": "https://e.vnexpress.net",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "nhadautu",
+      "publisher": "Nhà Đầu Tư",
+      "official_url": "https://nhadautu.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "baodongnai",
+      "publisher": "Báo Đồng Nai",
+      "official_url": "https://baodongnai.com.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "baodanang",
+      "publisher": "Báo Đà Nẵng",
+      "official_url": "https://baodanang.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "baocantho",
+      "publisher": "Báo Cần Thơ",
+      "official_url": "https://baocantho.com.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "baohai_phong",
+      "publisher": "Báo Hải Phòng",
+      "official_url": "https://baohaiphong.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "baoquangninh",
+      "publisher": "Báo Quảng Ninh",
+      "official_url": "https://baoquangninh.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "bao_binhduong",
+      "publisher": "Báo Bình Dương",
+      "official_url": "https://baobinhduong.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "baobariavungtau",
+      "publisher": "Báo Bà Rịa Vũng Tàu",
+      "official_url": "https://baobariavungtau.com.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "bao_longan",
+      "publisher": "Báo Long An",
+      "official_url": "https://baolongan.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "bao_tayninh",
+      "publisher": "Báo Tây Ninh",
+      "official_url": "https://baotayninh.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "baolamdong",
+      "publisher": "Báo Lâm Đồng",
+      "official_url": "https://baolamdong.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "bao_khanhhoa",
+      "publisher": "Báo Khánh Hòa",
+      "official_url": "https://baokhanhhoa.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "bao_binhdinh",
+      "publisher": "Báo Bình Định",
+      "official_url": "https://baobinhdinh.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "bao_nghean",
+      "publisher": "Báo Nghệ An",
+      "official_url": "https://baonghean.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "bao_hatinh",
+      "publisher": "Báo Hà Tĩnh",
+      "official_url": "https://baohatinh.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "bao_thanhhoa",
+      "publisher": "Báo Thanh Hóa",
+      "official_url": "https://baothanhhoa.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "bao_hue",
+      "publisher": "Báo Huế",
+      "official_url": "https://baohue.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "bao_thainguyen",
+      "publisher": "Báo Thái Nguyên",
+      "official_url": "https://baothainguyen.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "bao_bacninh",
+      "publisher": "Báo Bắc Ninh",
+      "official_url": "https://baobacninh.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "bao_hungyen",
+      "publisher": "Báo Hưng Yên",
+      "official_url": "https://baohungyen.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "bao_laocai",
+      "publisher": "Báo Lào Cai",
+      "official_url": "https://baolaocai.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "bao_phutho",
+      "publisher": "Báo Phú Thọ",
+      "official_url": "https://baophutho.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "bao_quangtri",
+      "publisher": "Báo Quảng Trị",
+      "official_url": "https://baoquangtri.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "bao_daklak",
+      "publisher": "Báo Đắk Lắk",
+      "official_url": "https://baodaklak.vn",
+      "feed_url": null,
+      "source_type": "media",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "vietnamlaw",
+      "publisher": "Vietnam Law & Legal Forum",
+      "official_url": "https://vietnamlawmagazine.vn",
+      "feed_url": null,
+      "source_type": "industry",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "thuvienphapluat",
+      "publisher": "Thư Viện Pháp Luật",
+      "official_url": "https://thuvienphapluat.vn",
+      "feed_url": null,
+      "source_type": "industry",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "luatvietnam",
+      "publisher": "LuatVietnam",
+      "official_url": "https://luatvietnam.vn",
+      "feed_url": null,
+      "source_type": "industry",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "tapchicongthuong",
+      "publisher": "Tạp chí Công Thương",
+      "official_url": "https://tapchicongthuong.vn",
+      "feed_url": null,
+      "source_type": "industry",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "tapchixaydung",
+      "publisher": "Tạp chí Xây dựng",
+      "official_url": "https://tapchixaydung.vn",
+      "feed_url": null,
+      "source_type": "industry",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "tapchibatdongsan",
+      "publisher": "Tạp chí Bất động sản Việt Nam",
+      "official_url": "https://reatimes.vn",
+      "feed_url": null,
+      "source_type": "industry",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "tapchinganhang",
+      "publisher": "Tạp chí Ngân hàng",
+      "official_url": "https://tapchinganhang.gov.vn",
+      "feed_url": null,
+      "source_type": "industry",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "tapchigiaothong",
+      "publisher": "Tạp chí Giao thông",
+      "official_url": "https://tapchigiaothong.vn",
+      "feed_url": null,
+      "source_type": "industry",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "logistics_vla",
+      "publisher": "Hiệp hội Doanh nghiệp dịch vụ Logistics Việt Nam",
+      "official_url": "https://vla.com.vn",
+      "feed_url": null,
+      "source_type": "associations",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "vietnamtextile",
+      "publisher": "VITAS",
+      "official_url": "https://www.vietnamtextile.org.vn",
+      "feed_url": null,
+      "source_type": "associations",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "vasep",
+      "publisher": "VASEP",
+      "official_url": "https://vasep.com.vn",
+      "feed_url": null,
+      "source_type": "associations",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "vietnamsteel",
+      "publisher": "Hiệp hội Thép Việt Nam",
+      "official_url": "https://vsa.com.vn",
+      "feed_url": null,
+      "source_type": "associations",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "vietnamcement",
+      "publisher": "Hiệp hội Xi măng Việt Nam",
+      "official_url": "https://vnca.org.vn",
+      "feed_url": null,
+      "source_type": "associations",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "vietnamautomotive",
+      "publisher": "VAMA",
+      "official_url": "https://vama.org.vn",
+      "feed_url": null,
+      "source_type": "associations",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "vietnam_realestate",
+      "publisher": "VNREA",
+      "official_url": "https://vnrea.vn",
+      "feed_url": null,
+      "source_type": "associations",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "vietnam_banks",
+      "publisher": "Hiệp hội Ngân hàng Việt Nam",
+      "official_url": "https://vnba.org.vn",
+      "feed_url": null,
+      "source_type": "associations",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "vietnam_ecommerce",
+      "publisher": "VECOM",
+      "official_url": "https://vecom.vn",
+      "feed_url": null,
+      "source_type": "associations",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "vietnamsoftware",
+      "publisher": "VINASA",
+      "official_url": "https://vinasa.org.vn",
+      "feed_url": null,
+      "source_type": "associations",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "vietnam_wood",
+      "publisher": "VIFOREST",
+      "official_url": "https://viforest.com.vn",
+      "feed_url": null,
+      "source_type": "associations",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "vietnam_rubber",
+      "publisher": "Hiệp hội Cao su Việt Nam",
+      "official_url": "https://vra.com.vn",
+      "feed_url": null,
+      "source_type": "associations",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "vietnam_cashew",
+      "publisher": "VINACAS",
+      "official_url": "https://vinacas.com.vn",
+      "feed_url": null,
+      "source_type": "associations",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "vietnam_coffee",
+      "publisher": "VICOFA",
+      "official_url": "https://vicofa.org.vn",
+      "feed_url": null,
+      "source_type": "associations",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "britcham",
+      "publisher": "BritCham Vietnam",
+      "official_url": "https://britchamvn.com",
+      "feed_url": null,
+      "source_type": "associations",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "auscham",
+      "publisher": "AusCham Vietnam",
+      "official_url": "https://auschamvn.org",
+      "feed_url": null,
+      "source_type": "associations",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "singcham",
+      "publisher": "Singapore Chamber Vietnam",
+      "official_url": "https://singchamvn.org",
+      "feed_url": null,
+      "source_type": "associations",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "can_cham",
+      "publisher": "Canadian Chamber of Commerce Vietnam",
+      "official_url": "https://canchamvietnam.org",
+      "feed_url": null,
+      "source_type": "associations",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "nordcham",
+      "publisher": "NordCham Vietnam",
+      "official_url": "https://nordchamvietnam.com",
+      "feed_url": null,
+      "source_type": "associations",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "icham",
+      "publisher": "Italian Chamber of Commerce Vietnam",
+      "official_url": "https://icham.org",
+      "feed_url": null,
+      "source_type": "associations",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "gba",
+      "publisher": "German Business Association Vietnam",
+      "official_url": "https://gba-vietnam.org",
+      "feed_url": null,
+      "source_type": "associations",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "kotra",
+      "publisher": "KOTRA",
+      "official_url": "https://www.kotra.or.kr",
+      "feed_url": null,
+      "source_type": "international",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "jetro",
+      "publisher": "JETRO Vietnam",
+      "official_url": "https://www.jetro.go.jp",
+      "feed_url": null,
+      "source_type": "international",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "jica",
+      "publisher": "JICA Vietnam",
+      "official_url": "https://www.jica.go.jp",
+      "feed_url": null,
+      "source_type": "international",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "koica",
+      "publisher": "KOICA",
+      "official_url": "https://www.koica.go.kr",
+      "feed_url": null,
+      "source_type": "international",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "oecd",
+      "publisher": "OECD",
+      "official_url": "https://www.oecd.org",
+      "feed_url": null,
+      "source_type": "international",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "ilo",
+      "publisher": "ILO Vietnam",
+      "official_url": "https://www.ilo.org",
+      "feed_url": null,
+      "source_type": "international",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "unido",
+      "publisher": "UNIDO",
+      "official_url": "https://www.unido.org",
+      "feed_url": null,
+      "source_type": "international",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "undp",
+      "publisher": "UNDP Vietnam",
+      "official_url": "https://www.undp.org/vietnam",
+      "feed_url": null,
+      "source_type": "international",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "unicef",
+      "publisher": "UNICEF Vietnam",
+      "official_url": "https://www.unicef.org/vietnam",
+      "feed_url": null,
+      "source_type": "international",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "who",
+      "publisher": "WHO Vietnam",
+      "official_url": "https://www.who.int/vietnam",
+      "feed_url": null,
+      "source_type": "international",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "fao",
+      "publisher": "FAO Vietnam",
+      "official_url": "https://www.fao.org/vietnam",
+      "feed_url": null,
+      "source_type": "international",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "wto",
+      "publisher": "WTO",
+      "official_url": "https://www.wto.org",
+      "feed_url": null,
+      "source_type": "international",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "itc",
+      "publisher": "International Trade Centre",
+      "official_url": "https://www.intracen.org",
+      "feed_url": null,
+      "source_type": "international",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "worldbank_data",
+      "publisher": "World Bank Data",
+      "official_url": "https://data.worldbank.org/country/vietnam",
+      "feed_url": null,
+      "source_type": "international",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "adb_data",
+      "publisher": "ADB Data Library",
+      "official_url": "https://data.adb.org",
+      "feed_url": null,
+      "source_type": "international",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "imf_data",
+      "publisher": "IMF Data",
+      "official_url": "https://www.imf.org/en/Data",
+      "feed_url": null,
+      "source_type": "international",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "unctadstat",
+      "publisher": "UNCTADstat",
+      "official_url": "https://unctadstat.unctad.org",
+      "feed_url": null,
+      "source_type": "international",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "aseanstats",
+      "publisher": "ASEANstats",
+      "official_url": "https://www.aseanstats.org",
+      "feed_url": null,
+      "source_type": "international",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "us_trade",
+      "publisher": "USTR",
+      "official_url": "https://ustr.gov",
+      "feed_url": null,
+      "source_type": "international",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "us_commerce",
+      "publisher": "US Department of Commerce",
+      "official_url": "https://www.commerce.gov",
+      "feed_url": null,
+      "source_type": "international",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "china_customs",
+      "publisher": "China Customs",
+      "official_url": "http://english.customs.gov.cn",
+      "feed_url": null,
+      "source_type": "international",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "singapore_enterprise",
+      "publisher": "Enterprise Singapore",
+      "official_url": "https://www.enterprisesg.gov.sg",
+      "feed_url": null,
+      "source_type": "international",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "taiwan_trade",
+      "publisher": "Taiwan External Trade Development Council",
+      "official_url": "https://www.taitra.org.tw",
+      "feed_url": null,
+      "source_type": "international",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "invest_hcm",
+      "publisher": "HCMC Investment and Trade Promotion Centre",
+      "official_url": "https://itpc.hochiminhcity.gov.vn",
+      "feed_url": null,
+      "source_type": "government",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "hcm_stats",
+      "publisher": "HCMC Statistics Office",
+      "official_url": "https://thongkehochiminh.gso.gov.vn",
+      "feed_url": null,
+      "source_type": "government",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "hcm_planning",
+      "publisher": "HCMC Department of Planning and Architecture",
+      "official_url": "https://qhkt.hochiminhcity.gov.vn",
+      "feed_url": null,
+      "source_type": "government",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "hcm_construction",
+      "publisher": "HCMC Department of Construction",
+      "official_url": "https://soxaydung.hochiminhcity.gov.vn",
+      "feed_url": null,
+      "source_type": "government",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "hcm_industrial",
+      "publisher": "HCMC Export Processing and Industrial Zones Authority",
+      "official_url": "https://hepza.hochiminhcity.gov.vn",
+      "feed_url": null,
+      "source_type": "government",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "danang_portal",
+      "publisher": "Da Nang City Portal",
+      "official_url": "https://danang.gov.vn",
+      "feed_url": null,
+      "source_type": "government",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "haiphong_portal",
+      "publisher": "Hai Phong City Portal",
+      "official_url": "https://haiphong.gov.vn",
+      "feed_url": null,
+      "source_type": "government",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "cantho_portal",
+      "publisher": "Can Tho City Portal",
+      "official_url": "https://cantho.gov.vn",
+      "feed_url": null,
+      "source_type": "government",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "dongnai_portal",
+      "publisher": "Dong Nai Province Portal",
+      "official_url": "https://dongnai.gov.vn",
+      "feed_url": null,
+      "source_type": "government",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "quangninh_portal",
+      "publisher": "Quang Ninh Province Portal",
+      "official_url": "https://quangninh.gov.vn",
+      "feed_url": null,
+      "source_type": "government",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "bacninh_portal",
+      "publisher": "Bac Ninh Province Portal",
+      "official_url": "https://bacninh.gov.vn",
+      "feed_url": null,
+      "source_type": "government",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "hungyen_portal",
+      "publisher": "Hung Yen Province Portal",
+      "official_url": "https://hungyen.gov.vn",
+      "feed_url": null,
+      "source_type": "government",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "tay_ninh_portal",
+      "publisher": "Tay Ninh Province Portal",
+      "official_url": "https://tayninh.gov.vn",
+      "feed_url": null,
+      "source_type": "government",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "lamdong_portal",
+      "publisher": "Lam Dong Province Portal",
+      "official_url": "https://lamdong.gov.vn",
+      "feed_url": null,
+      "source_type": "government",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "khanhhoa_portal",
+      "publisher": "Khanh Hoa Province Portal",
+      "official_url": "https://khanhhoa.gov.vn",
+      "feed_url": null,
+      "source_type": "government",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "nghean_portal",
+      "publisher": "Nghe An Province Portal",
+      "official_url": "https://nghean.gov.vn",
+      "feed_url": null,
+      "source_type": "government",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "thanhhoa_portal",
+      "publisher": "Thanh Hoa Province Portal",
+      "official_url": "https://thanhhoa.gov.vn",
+      "feed_url": null,
+      "source_type": "government",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "quangtri_portal",
+      "publisher": "Quang Tri Province Portal",
+      "official_url": "https://quangtri.gov.vn",
+      "feed_url": null,
+      "source_type": "government",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "daklak_portal",
+      "publisher": "Dak Lak Province Portal",
+      "official_url": "https://daklak.gov.vn",
+      "feed_url": null,
+      "source_type": "government",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "vinamilk",
+      "publisher": "Vinamilk",
+      "official_url": "https://www.vinamilk.com.vn",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "viettel",
+      "publisher": "Viettel",
+      "official_url": "https://viettel.com.vn",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "mobifone",
+      "publisher": "MobiFone",
+      "official_url": "https://www.mobifone.vn",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "vietnamairlines",
+      "publisher": "Vietnam Airlines",
+      "official_url": "https://www.vietnamairlines.com",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "vietjet",
+      "publisher": "Vietjet Air",
+      "official_url": "https://www.vietjetair.com",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "acv",
+      "publisher": "Airports Corporation of Vietnam",
+      "official_url": "https://www.vietnamairport.vn",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "pv_gas",
+      "publisher": "PV GAS",
+      "official_url": "https://www.pvgas.com.vn",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "petrovietnam",
+      "publisher": "Petrovietnam",
+      "official_url": "https://www.pvn.vn",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "pvoil",
+      "publisher": "PVOIL",
+      "official_url": "https://www.pvoil.com.vn",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "petrolimex",
+      "publisher": "Petrolimex",
+      "official_url": "https://www.petrolimex.com.vn",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "vietinbank",
+      "publisher": "VietinBank",
+      "official_url": "https://www.vietinbank.vn",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "bidv",
+      "publisher": "BIDV",
+      "official_url": "https://www.bidv.com.vn",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "techcombank",
+      "publisher": "Techcombank",
+      "official_url": "https://techcombank.com",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "mbbank",
+      "publisher": "MB Bank",
+      "official_url": "https://www.mbbank.com.vn",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "acb",
+      "publisher": "ACB",
+      "official_url": "https://acb.com.vn",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "vpbank",
+      "publisher": "VPBank",
+      "official_url": "https://www.vpbank.com.vn",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "hdbank",
+      "publisher": "HDBank",
+      "official_url": "https://hdbank.com.vn",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "sacombank",
+      "publisher": "Sacombank",
+      "official_url": "https://www.sacombank.com.vn",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "namlong",
+      "publisher": "Nam Long Group",
+      "official_url": "https://namlongvn.com",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "khangdien",
+      "publisher": "Khang Dien",
+      "official_url": "https://www.khangdien.com.vn",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "datxanh",
+      "publisher": "Dat Xanh Group",
+      "official_url": "https://www.datxanh.vn",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "phatdat",
+      "publisher": "Phat Dat Corporation",
+      "official_url": "https://www.phatdat.com.vn",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "sonkimland",
+      "publisher": "SonKim Land",
+      "official_url": "https://sonkimland.vn",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "masterise",
+      "publisher": "Masterise Homes",
+      "official_url": "https://masterisehomes.com",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "capitaland",
+      "publisher": "CapitaLand Development",
+      "official_url": "https://www.capitaland.com",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "gamudaland",
+      "publisher": "Gamuda Land",
+      "official_url": "https://gamudaland.com.my",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "keppel",
+      "publisher": "Keppel",
+      "official_url": "https://www.keppel.com",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "frasers",
+      "publisher": "Frasers Property",
+      "official_url": "https://www.frasersproperty.com",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "aeon",
+      "publisher": "AEON Vietnam",
+      "official_url": "https://aeon.com.vn",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "lotte",
+      "publisher": "LOTTE Vietnam",
+      "official_url": "https://www.lotte.vn",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "samsung",
+      "publisher": "Samsung Vietnam",
+      "official_url": "https://www.samsung.com/vn",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "lg",
+      "publisher": "LG Vietnam",
+      "official_url": "https://www.lg.com/vn",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "intel",
+      "publisher": "Intel",
+      "official_url": "https://www.intel.com",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "foxconn",
+      "publisher": "Foxconn",
+      "official_url": "https://www.foxconn.com",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "lego",
+      "publisher": "LEGO Group",
+      "official_url": "https://www.lego.com",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "heineken",
+      "publisher": "HEINEKEN Vietnam",
+      "official_url": "https://heineken-vietnam.com.vn",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "nestle",
+      "publisher": "Nestle Vietnam",
+      "official_url": "https://www.nestle.com.vn",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "unilever",
+      "publisher": "Unilever Vietnam",
+      "official_url": "https://www.unilever.com.vn",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "dhl",
+      "publisher": "DHL Vietnam",
+      "official_url": "https://www.dhl.com/vn-en/home.html",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "maersk",
+      "publisher": "Maersk",
+      "official_url": "https://www.maersk.com",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "dpworld",
+      "publisher": "DP World",
+      "official_url": "https://www.dpworld.com",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "saigonnewport",
+      "publisher": "Saigon Newport Corporation",
+      "official_url": "https://saigonnewport.com.vn",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "longhau",
+      "publisher": "Long Hau Corporation",
+      "official_url": "https://longhau.com.vn",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "idico",
+      "publisher": "IDICO",
+      "official_url": "https://idico.com.vn",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "kbc",
+      "publisher": "Kinh Bac City",
+      "official_url": "https://kinhbaccity.vn",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
+    },
+    {
+      "source_id": "vsip",
+      "publisher": "VSIP",
+      "official_url": "https://www.vsip.com.vn",
+      "feed_url": null,
+      "source_type": "corporate",
+      "language": [],
+      "industry": [],
+      "geography": "VN",
+      "license_status": "RIGHTS_REVIEW",
+      "terms_url": null,
+      "allowed_operations": [
+        "LINK_ONLY",
+        "MANUAL_FACT_VERIFICATION"
+      ],
+      "rate_limit": null,
+      "last_reviewed_at": null,
+      "last_successful_fetch": null,
+      "reliability_notes": "Candidate only. Identity, URL reachability, license, and automated access not verified."
     }
   ]
 }
