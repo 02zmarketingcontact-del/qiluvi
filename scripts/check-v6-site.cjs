@@ -68,8 +68,8 @@ function checkPage(file){
      !html.includes('hreflang="zh-CN"') || !html.includes('hreflang="zh-TW"'))err(rel+': incomplete language alternates');
   if(!html.includes('canonical'))err(rel+': no canonical');
   if(rel!=='index.html' && !html.includes('assets/v6-site.css'))err(rel+': missing shared stylesheet');
-  if(!html.includes('0966 108 018') && !html.includes('tel:+84966108018') &&
-    !html.includes('tel:+84966108018'))err(rel+': phone/CTA contact path not evident');
+  const hasContactRoute=links.some(m => /(^|\\/)contact\\/$/.test(m[1].split('#')[0]) || m[1]==='#contact');
+  if(!hasContactRoute)err(rel+': no navigable contact route');
 }
 scanDir(root);
 const total_expected=53; // 4 locales x 13 routes, plus independent QiMap redirect
