@@ -5,7 +5,7 @@
 const fs=require('node:fs'),path=require('node:path');
 const root=path.resolve(__dirname,'..');
 const sources=JSON.parse(fs.readFileSync(path.join(root,'data/qiinsight/sources.json'),'utf8')).sources;
-const limit=Math.max(1,Math.min(50,Number(process.env.QIINSIGHT_LIMIT||10)));
+const limit=Math.max(1,Math.min(sources.length,Number(process.env.QIINSIGHT_LIMIT||sources.length)));
 const timeout=Math.max(2000,Math.min(15000,Number(process.env.QIINSIGHT_TIMEOUT_MS||7000)));
 const candidates=sources.filter(s=>s.license_status!=='PROHIBITED').slice(0,limit);
 const results=[];
