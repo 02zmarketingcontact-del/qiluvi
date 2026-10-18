@@ -45,3 +45,8 @@ No 12 independent AI agents or continuous background operations are claimed by t
 - [Static QA on main](https://github.com/02zmarketingcontact-del/qiluvi/actions/runs/39095532280): **SUCCESS**.
 - [GitHub Pages build and deployment](https://github.com/02zmarketingcontact-del/qiluvi/actions/runs/39095532156): **SUCCESS**.
 - Separate live HTTP multi-path verification is being added; treat public path verification as **PENDING** until the smoke run succeeds. Visual/device QA is still outstanding.
+
+## Verified live release — 18 Oct 2026 / final run
+**HTTP success 15/15.** GitHub Action [Verify QILUVI Website #39095652826](https://github.com/02zmarketingcontact-del/qiluvi/actions/runs/39095652826) completed **success**. Logs report HTTP 200 and V6 content signature on '/', '/en/', '/zh-cn/', '/zh-tw/', all five Vietnamese service detail URLs, '/en/services/qiinsight/', '/zh-cn/services/qibridge/', '/zh-tw/services/qireal/', '/portfolio/', '/insights/', and '/qimap/'. The final [Pages deployment #39095652777](https://github.com/02zmarketingcontact-del/qiluvi/actions/runs/39095652777) also completed **success** at commit b166d223dcc9b22c23030fa636adc0ec60ec4a6d.
+
+**Release acceptance:** GitHub PR merged, static QA successful, Pages deployment successful, representative multi-language HTTP verification successful. **Not yet independently accepted:** responsive screenshot/device testing, detailed 4-language legal terminology certification, paid buyer/user testing or fully validated professional partner network. Such tasks remain P0/P1 follow-ups.

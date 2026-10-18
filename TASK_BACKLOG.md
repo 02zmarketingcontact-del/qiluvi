@@ -18,9 +18,9 @@ Statuses: COMPLETE = actual evidence exists; DRAFT = implementation artifact exi
 | P0-13 | P0 | Site | Author About/Solutions/Services/Insights/Portfolio/Approach/Contact in four languages | DRAFT | 28 HTML pages | Content and link QA |
 | P0-14 | P0 | Site | Localized EN/CN/TW homepages | DRAFT | 3 localized home routes | Language UI and CSS QA |
 | P0-15 | P0 | Site | Reuse existing homepage and link 5 service pages | DRAFT | index.html on feature branch | Preserve QiMap and original logo |
-| P0-16 | P0 | Site | Add site QA script, workflow, sitemap and robots | IN PROGRESS | scripts/check-v6-site.cjs etc. | CI success and link QA |
+| P0-16 | P0 | Site | Add site QA script, workflow, sitemap and robots | COMPLETE | scripts/check-v6-site.cjs etc. | CI success and link QA |
 | P0-17 | P0 | GitHub | Create safe PR against main | COMPLETE | GitHub PR URL | Review diff and CI |
-| P0-18 | P0 | Deployment | Merge and validate live Pages | NEEDS VERIFICATION | PR merge + GitHub Pages/HTTP tests | 4 languages and five service pages live |
+| P0-18 | P0 | Deployment | Merge and validate live Pages | COMPLETE | PR merge + GitHub Pages/HTTP tests | 4 languages and five service pages live |
 | P0-19 | P0 | Research | Validate 5+ real decision-maker interviews per service | NOT STARTED | Consent-backed field notes (private) | Verified buyer importance and willingness to pay |
 | P0-20 | P0 | Claims | Verify client-facing legal, investment, construction language | NEEDS VERIFICATION | Legal reviewer / qualified partner check | No material inaccurate regulated claims |
 | P1-01 | P1 | CRM | Secure pipeline + consent governance | DRAFT | templates/CRM_PIPELINE.md (template only) | Actual access-controlled private CRM |
@@ -37,3 +37,8 @@ Statuses: COMPLETE = actual evidence exists; DRAFT = implementation artifact exi
 - [Static QA on main](https://github.com/02zmarketingcontact-del/qiluvi/actions/runs/39095532280): **SUCCESS**.
 - [GitHub Pages build and deployment](https://github.com/02zmarketingcontact-del/qiluvi/actions/runs/39095532156): **SUCCESS**.
 - Separate live HTTP multi-path verification is being added; treat public path verification as **PENDING** until the smoke run succeeds. Visual/device QA is still outstanding.
+
+## Verified live release — 18 Oct 2026 / final run
+**HTTP success 15/15.** GitHub Action [Verify QILUVI Website #39095652826](https://github.com/02zmarketingcontact-del/qiluvi/actions/runs/39095652826) completed **success**. Logs report HTTP 200 and V6 content signature on '/', '/en/', '/zh-cn/', '/zh-tw/', all five Vietnamese service detail URLs, '/en/services/qiinsight/', '/zh-cn/services/qibridge/', '/zh-tw/services/qireal/', '/portfolio/', '/insights/', and '/qimap/'. The final [Pages deployment #39095652777](https://github.com/02zmarketingcontact-del/qiluvi/actions/runs/39095652777) also completed **success** at commit b166d223dcc9b22c23030fa636adc0ec60ec4a6d.
+
+**Release acceptance:** GitHub PR merged, static QA successful, Pages deployment successful, representative multi-language HTTP verification successful. **Not yet independently accepted:** responsive screenshot/device testing, detailed 4-language legal terminology certification, paid buyer/user testing or fully validated professional partner network. Such tasks remain P0/P1 follow-ups.
