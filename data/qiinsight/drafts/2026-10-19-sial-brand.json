@@ -1,0 +1,62 @@
+{
+  "run_date": "2026-10-19",
+  "status": "EDITORIAL_DRAFT",
+  "source_rights": "RIGHTS_REVIEW",
+  "published": false,
+  "events": [
+    {
+      "event_id": "VN-20261017-SIAL-PARIS",
+      "event_date": "2026-10-17",
+      "topic": "export-and-food",
+      "sources": [
+        "https://moit.gov.vn/tin-tuc/xuc-tien-thuong-mai/doanh-nghiep-thuc-pham-viet-mo-rong-ket-noi-tai-sial-paris-2026.html"
+      ],
+      "fact": "Thirty-eight Vietnamese companies joined Sial Paris 2026, held 17-21 October, with a national pavilion reported at 354 square metres.",
+      "locales": {
+        "vi-VN": {
+          "title": "38 doanh nghiệp thực phẩm Việt dự Sial Paris 2026",
+          "brief": "Bộ Công Thương thông tin đoàn 38 doanh nghiệp Việt Nam tham gia hội chợ thực phẩm Sial Paris từ ngày 17 đến 21/10; gian hàng quốc gia có diện tích 354 m². Sự kiện tạo cơ hội tiếp xúc nhà nhập khẩu, nhà phân phối và cập nhật tiêu chuẩn thực phẩm. Tuy nhiên, việc tham dự không đồng nghĩa phát sinh đơn hàng. Hiệu quả thực tế cần đo bằng kết quả kết nối, hợp đồng và xuất khẩu sau hội chợ."
+        },
+        "en": {
+          "title": "Thirty-eight Vietnamese food businesses exhibit at Sial Paris 2026",
+          "brief": "Vietnam's trade ministry reports that 38 businesses are taking part in Sial Paris from 17 to 21 October, with a 354-square-metre national pavilion. The fair can help suppliers meet importers and understand compliance expectations. Participation should not be counted as confirmed orders or export revenue. Follow-up meetings, certifications and shipments will be more meaningful indicators."
+        },
+        "zh-CN": {
+          "title": "38家越南食品企业参加2026年巴黎Sial展会",
+          "brief": "越南工贸部介绍，38家企业于10月17日至21日参加巴黎Sial食品展，越南国家展区面积约354平方米。参展有助于对接进口商、了解食品认证及分销要求，但参展企业数量并不代表已签订单。更值得关注的是展后洽谈、认证及实际出货成果。"
+        },
+        "zh-TW": {
+          "title": "38家越南食品業者參加2026巴黎Sial展",
+          "brief": "越南工貿部表示，38家企業於10月17日至21日參加巴黎Sial食品展，越南國家展區約354平方公尺。參展有助於接觸進口商並了解認證與通路要求，但不等於已取得訂單。後續洽談、認證進度及實際出貨才是較具意義的成果。"
+        }
+      }
+    },
+    {
+      "event_id": "VN-20261016-NATIONAL-BRAND",
+      "event_date": "2026-10-16",
+      "topic": "brands-and-business",
+      "sources": [
+        "https://moit.gov.vn/tin-tuc/hoat-dong/bo-cong-thuong-to-chuc-le-cong-bo-san-pham-dat-thuong-hieu-quoc-gia-viet-nam-nam-2026.html"
+      ],
+      "fact": "The 2026 Vietnam National Brand recognition programme honoured 499 products and services from 227 companies on 16 October.",
+      "locales": {
+        "vi-VN": {
+          "title": "Thương hiệu quốc gia 2026 ghi nhận 499 sản phẩm của 227 doanh nghiệp",
+          "brief": "Ngày 16/10, Bộ Công Thương tổ chức công bố kết quả chương trình Thương hiệu quốc gia Việt Nam lần thứ 10, với 499 sản phẩm và dịch vụ của 227 doanh nghiệp được tôn vinh. Đối với nhà mua hàng, đây có thể là nguồn danh sách nhà cung cấp để nghiên cứu thêm, nhưng không thể thay thế thẩm định năng lực, chứng nhận chất lượng, sản lượng và điều kiện giao hàng của từng doanh nghiệp."
+        },
+        "en": {
+          "title": "Vietnam's national brand programme recognises 227 companies",
+          "brief": "Vietnam's tenth National Brand programme recognised 499 products and services belonging to 227 companies on 16 October, according to the Ministry of Industry and Trade. Recognition offers a starting point for supplier discovery but is not independent evidence of market share or manufacturing capacity. Buyers should still verify product-level certifications, specifications, financial position and fulfilment capabilities."
+        },
+        "zh-CN": {
+          "title": "越南2026国家品牌项目表彰227家企业的499项产品与服务",
+          "brief": "越南工贸部于10月16日公布第十届国家品牌项目结果，共有227家企业的499项产品与服务获表彰。这份名单可作为采购商寻找供应商的参考起点，但不能据此认定企业市场份额或产能水平。合作前仍应核实产品认证、规格、交付及经营能力。"
+        },
+        "zh-TW": {
+          "title": "越南2026國家品牌計畫表揚227家企業、499項產品與服務",
+          "brief": "越南工貿部於10月16日公布第十屆國家品牌計畫成果，共有227家企業的499項產品與服務獲表揚。名單有助於買方初步尋找供應商，但不足以證明市占率或供貨能力。合作前仍應檢驗產品認證、規格、財務與交付條件。"
+        }
+      }
+    }
+  ]
+}
