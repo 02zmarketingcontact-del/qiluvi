@@ -1,0 +1,34 @@
+{
+  "run_date": "2026-10-19",
+  "status": "EDITORIAL_DRAFT",
+  "source_rights": "RIGHTS_REVIEW",
+  "published": false,
+  "events": [
+    {
+      "event_id": "VN-20261018-VEFTA",
+      "event_date": "2026-10-18",
+      "sources": [
+        "https://moit.gov.vn/en/news/signing-of-the-free-trade-agreement-between-viet-nam-and-the-member-states-of-the-european-free-trade-association-efta-.html"
+      ],
+      "fact": "Vietnam and four EFTA members signed a free trade agreement in Hanoi on 18 October 2026.",
+      "locales": {
+        "vi-VN": {
+          "title": "Việt Nam ký FTA với EFTA: doanh nghiệp cần theo dõi lộ trình hiệu lực",
+          "brief": "Việt Nam và bốn nước EFTA ký hiệp định ngày 18/10. Ký kết chưa đồng nghĩa ưu đãi thuế đã có hiệu lực. Doanh nghiệp cần theo dõi biểu cam kết, quy tắc xuất xứ và thời điểm áp dụng."
+        },
+        "en": {
+          "title": "Vietnam and EFTA sign trade deal; implementation remains key",
+          "brief": "Vietnam signed an FTA with the four EFTA members on 18 October. Signing alone does not confirm that preferential tariffs apply. Businesses should review the final schedules, origin rules and effective dates."
+        },
+        "zh-CN": {
+          "title": "越南与EFTA签署自贸协定：优惠生效时间仍需确认",
+          "brief": "越南与EFTA四国于10月18日签署自贸协定。签署不代表优惠关税已立即生效。企业应核查具体税率表、原产地规则及生效安排。"
+        },
+        "zh-TW": {
+          "title": "越南與EFTA簽署自貿協定：仍須確認生效時點",
+          "brief": "越南與EFTA四國於10月18日簽署自貿協定。簽署不等於優惠關稅立即生效。企業應查核稅率承諾、原產地規則與正式生效時程。"
+        }
+      }
+    }
+  ]
+}
