@@ -1,0 +1,62 @@
+{
+  "run_date": "2026-10-19",
+  "status": "EDITORIAL_DRAFT",
+  "source_rights": "RIGHTS_REVIEW",
+  "published": false,
+  "events": [
+    {
+      "event_id": "VN-20261016-HUNGYEN-ECOM",
+      "event_date": "2026-10-16",
+      "topic": "ecommerce",
+      "sources": [
+        "https://moit.gov.vn/tin-tuc/hung-yen-thuc-day-thuong-mai-dien-tu-dua-san-pham-dia-phuong-vuon-xa.html"
+      ],
+      "fact": "Nearly 200 attendees joined e-commerce training hosted in Hung Yen on 15-16 October by local and national trade bodies.",
+      "locales": {
+        "vi-VN": {
+          "title": "Hưng Yên tổ chức tập huấn thương mại điện tử cho gần 200 đại biểu",
+          "brief": "Trong hai ngày 15–16/10, cơ quan Công Thương Hưng Yên phối hợp đơn vị phát triển thương mại điện tử thuộc Bộ Công Thương tổ chức tập huấn cho gần 200 cán bộ, doanh nghiệp, hộ kinh doanh và hợp tác xã. Hoạt động góp phần nâng cao năng lực bán hàng số nhưng chưa cho thấy tác động đến doanh thu. Hiệu quả cần tiếp tục đánh giá qua tỷ lệ áp dụng, chất lượng gian hàng và năng lực xử lý đơn."
+        },
+        "en": {
+          "title": "Hung Yen offers e-commerce training to nearly 200 participants",
+          "brief": "Trade authorities in Vietnam's Hung Yen province and a national e-commerce support unit ran sessions on 15–16 October for nearly 200 participants from government, enterprises and household businesses. This is a skills-building measure, not measured evidence of higher online sales. Adoption, product-data standards, fulfilment and repeat orders are better indicators of commercial outcomes."
+        },
+        "zh-CN": {
+          "title": "越南兴安省开展电商培训，近200人参与",
+          "brief": "10月15日至16日，越南兴安省工贸部门与中央电商机构联合为近200名管理人员、企业及个体经营者等提供培训。活动有助于提升数字化经营意识，但尚不能据此认定电商销售额增长。后续更值得关注的是商家实际开店、履约能力和订单数据。"
+        },
+        "zh-TW": {
+          "title": "越南興安省舉辦電商培訓，近200人參與",
+          "brief": "10月15日至16日，越南興安省工貿部門與中央電商單位為近200名公部門、企業、個體商戶等代表辦理課程。培訓屬於經營能力建構，尚不能直接推論網路銷售額增加。後續應觀察實際上架、訂單處理與商家採用情況。"
+        }
+      }
+    },
+    {
+      "event_id": "VN-20261016-MOF-WB-CPF",
+      "event_date": "2026-10-16",
+      "topic": "finance-and-infrastructure",
+      "sources": [
+        "https://www.mof.gov.vn/tin-tuc-tai-chinh/thoi-su/hoi-nghi-thuong-nien-imfwb-2026-bo-tai-chinh-viet-nam-va-wb-dat-duoc-nhieu-dong-thuan-cao-trong-quan-he-hop-tac"
+      ],
+      "fact": "Vietnam's Ministry of Finance held World Bank Group discussions around ODA performance and a potential 2027-2032 Country Partnership Framework during the 2026 IMF/WB meetings.",
+      "locales": {
+        "vi-VN": {
+          "title": "Bộ Tài chính và World Bank trao đổi định hướng hợp tác 2027–2032",
+          "brief": "Bộ Tài chính cho biết đoàn Việt Nam đã làm việc với đại diện Nhóm Ngân hàng Thế giới bên lề Hội nghị thường niên IMF/WB 2026 tại Bangkok. Nội dung gồm hiệu quả sử dụng ODA, vốn vay ưu đãi và định hướng Khung Đối tác Quốc gia giai đoạn 2027–2032. Đây là quá trình trao đổi, chưa đủ căn cứ khẳng định dự án hạ tầng cụ thể đã được cấp vốn. Doanh nghiệp nên theo dõi tài liệu khung và kế hoạch đấu thầu chính thức."
+        },
+        "en": {
+          "title": "Vietnam and World Bank discuss a prospective 2027–2032 framework",
+          "brief": "During the 2026 IMF/World Bank Annual Meetings in Bangkok, Vietnamese finance officials discussed existing concessional financing and a prospective Country Partnership Framework for 2027–2032 with World Bank Group representatives. Policy dialogue does not amount to an approved project financing package. Infrastructure suppliers should monitor adopted framework documents, procurement notices and project-specific financing decisions."
+        },
+        "zh-CN": {
+          "title": "越南与世界银行讨论2027—2032年国别合作方向",
+          "brief": "越南财政部表示，越方在2026年IMF和世界银行年会期间，就优惠融资使用及2027—2032年国别伙伴关系框架与世界银行集团交换意见。当前属于规划与政策沟通，不能理解为具体项目融资已经批准。基础设施企业应跟进正式框架、项目清单及采购公告。"
+        },
+        "zh-TW": {
+          "title": "越南與世界銀行討論2027至2032年國別合作方向",
+          "brief": "越南財政部表示，越方於2026年IMF與世界銀行年會期間，就優惠融資使用及2027至2032年國別夥伴關係架構與世界銀行集團進行交流。此階段仍是規劃對話，並非特定專案融資已獲批准。基建企業應持續查核正式架構、專案清單與採購公告。"
+        }
+      }
+    }
+  ]
+}
