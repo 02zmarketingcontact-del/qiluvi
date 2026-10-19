@@ -1,0 +1,63 @@
+{
+  "run_date": "2026-10-19",
+  "status": "EDITORIAL_DRAFT",
+  "source_rights": "RIGHTS_REVIEW",
+  "published": false,
+  "events": [
+    {
+      "event_id": "VN-20261018-RATE-IMPLEMENTATION",
+      "event_date": "2026-10-18",
+      "topic": "finance",
+      "sources": [
+        "https://baochinhphu.vn/phai-giam-toi-thieu-05-nam-lai-suat-tien-gui-ky-han-tu-6-thang-tro-len-102261018161117229.htm",
+        "https://baochinhphu.vn/agribank-giam-lai-suat-cho-vay-toi-2-nam-ho-tro-nguoi-dan-va-doanh-nghiep-102261018201543474.htm"
+      ],
+      "fact": "SBV called for at least 0.5 percentage point reduction in listed deposit rates from 6 months and 1.5-2 percentage point relief in relevant lending; Agribank introduced an eligible-loan programme from 19 October.",
+      "locales": {
+        "vi-VN": {
+          "title": "Làn sóng giảm lãi suất tại Việt Nam: doanh nghiệp cần kiểm tra điều kiện",
+          "brief": "Ngân hàng Nhà nước ngày 18/10 yêu cầu các tổ chức tín dụng hạ tối thiểu 0,5 điểm phần trăm/năm lãi suất huy động niêm yết từ kỳ hạn sáu tháng; đồng thời triển khai giảm chi phí vay ở lĩnh vực sản xuất, kinh doanh và ưu tiên. Agribank cũng công bố ưu đãi cho đối tượng đủ điều kiện từ 19/10. Doanh nghiệp nên xem rõ thời hạn ưu đãi, phí, tài sản bảo đảm và lãi suất sau ưu đãi, thay vì coi mức giảm tối đa là áp dụng cho tất cả."
+        },
+        "en": {
+          "title": "Vietnam's lending-rate push: headline cuts are not universal offers",
+          "brief": "On 18 October the central bank instructed lenders to reduce posted deposit rates for terms of six months or more and pursue lower funding costs for eligible business borrowers. Agribank announced a separate programme from 19 October. Actual savings depend on bank-specific criteria and loan approval. Businesses should compare written offers, collateral, fees and the rate after any promotional period."
+        },
+        "zh-CN": {
+          "title": "越南推动降息：企业应核实实际融资条件",
+          "brief": "10月18日，越南国家银行要求金融机构下调六个月及以上期限的挂牌存款利率，并推动降低生产经营等领域的融资成本。Agribank另宣布10月19日起实施贷款优惠。具体降息幅度取决于银行方案与授信条件，企业应比较担保要求、费用、优惠期限及后续利率。"
+        },
+        "zh-TW": {
+          "title": "越南推動降息：企業仍須確認實際融資條件",
+          "brief": "10月18日，越南國家銀行要求金融機構調降六個月以上期限的掛牌存款利率，並促進合格企業貸款成本下降。Agribank另宣布自10月19日起推出貸款優惠。實際適用取決於個別方案及授信條件，企業仍須比較擔保、費用、優惠期間與期後利率。"
+        }
+      }
+    },
+    {
+      "event_id": "VN-20261016-VIFON-FRANCE",
+      "event_date": "2026-10-16",
+      "topic": "manufacturing",
+      "sources": [
+        "https://moit.gov.vn/tin-tuc/xuc-tien-thuong-mai-dom-hoa-ket-trai-vifon-dau-tu-nha-may-20-trieu-euro-tai-phap.html"
+      ],
+      "fact": "Tan-Viet VIFON and a partner signed a document on approximately 8 hectares in France for a planned EUR20m initial food-production and logistics complex.",
+      "locales": {
+        "vi-VN": {
+          "title": "VIFON xúc tiến tổ hợp thực phẩm tại Pháp, vốn ban đầu khoảng 20 triệu EUR",
+          "brief": "Theo Bộ Công Thương, ngày 16/10 Tan-Viet VIFON và đối tác ký văn bản nhận chuyển nhượng khu đất khoảng 8 ha tại vùng Grand Est, Pháp. Dự kiến hình thành khu sản xuất thực phẩm, logistics và trụ sở, với vốn đầu tư ban đầu khoảng 20 triệu EUR. Đây là bước chuẩn bị dự án, chưa phải xác nhận nhà máy đã vận hành. Doanh nghiệp cần theo dõi giấy phép, tiến độ đầu tư và năng lực phân phối thực tế."
+        },
+        "en": {
+          "title": "Vietnam's VIFON advances a planned €20m food complex in France",
+          "brief": "Tan-Viet VIFON and a partner signed a land-transfer document on 16 October involving roughly eight hectares in France's Grand Est region, Vietnam's trade ministry reports. The proposed food, logistics and office complex has an initial investment plan of about €20 million. The milestone does not establish that a factory is operating. Construction approvals, certification and execution milestones remain critical."
+        },
+        "zh-CN": {
+          "title": "越南VIFON推进法国食品生产项目，初期拟投约2000万欧元",
+          "brief": "据越南工贸部消息，Tan-Viet VIFON及合作方于10月16日签署法国Grand Est地区约8公顷土地的相关转让文件，计划建设食品生产、物流及办公设施，初期投资约2000万欧元。该进展并不等于工厂已经投产。仍需跟踪建设审批、食品认证、投资执行及投产时间。"
+        },
+        "zh-TW": {
+          "title": "越南VIFON推進法國食品製造專案，初期規劃約2,000萬歐元",
+          "brief": "越南工貿部指出，Tan-Viet VIFON與夥伴於10月16日簽署法國Grand Est地區約8公頃土地的移轉相關文件，規劃興建食品製造、物流及辦公設施，初期投資約2,000萬歐元。這不代表工廠已正式投產，仍須追蹤許可、品質認證與工程時程。"
+        }
+      }
+    }
+  ]
+}
