@@ -1,0 +1,1 @@
+Localization labels: vi-VN, en, zh-CN, zh-TW. 简体 繁體. This is a draft test.
