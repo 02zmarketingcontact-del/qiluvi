@@ -1,0 +1,197 @@
+{
+  "batch_date": "2026-10-20",
+  "events": [
+    {
+      "event_id": "qii-20261020-dien-bien-crossborder",
+      "source_url": "https://baochinhphu.vn/dien-bien-thu-hut-hon-7500-ty-dong-dau-tu-thuc-day-hop-tac-kinh-te-xuyen-bien-gioi-102261019200700544.htm",
+      "source_published_at": "2026-10-19",
+      "category": "investment",
+      "region": "Dien Bien",
+      "fact_ledger": [
+        "20 investor approvals above VND7.5 trillion",
+        "Investment MOUs above VND12 trillion, not equal to disbursed capital"
+      ],
+      "source_count": 1,
+      "confidence": "SINGLE_SOURCE_REVIEW_REQUIRED",
+      "rights": "FACTS_ONLY; ORIGINAL_EXPRESSION_NOT_LICENSED",
+      "editorial_status": "DRAFT_NEEDS_FACT_RIGHTS_REVIEW",
+      "publication_status": "NOT_PUBLISHED"
+    },
+    {
+      "event_id": "qii-20261020-hai-phong-growth",
+      "source_url": "https://baodautu.vn/hai-phong-can-tang-truong-1539-trong-quy-iv2026-con-du-dia-o-dau-d725928.html",
+      "source_published_at": "2026-10-19",
+      "category": "industry",
+      "region": "Hai Phong",
+      "fact_ledger": [
+        "GRDP nine months +12.08%",
+        "Q4 GRDP target +15.39%"
+      ],
+      "source_count": 1,
+      "confidence": "SINGLE_SOURCE_REVIEW_REQUIRED",
+      "rights": "FACTS_ONLY; ORIGINAL_EXPRESSION_NOT_LICENSED",
+      "editorial_status": "DRAFT_NEEDS_FACT_RIGHTS_REVIEW",
+      "publication_status": "NOT_PUBLISHED"
+    },
+    {
+      "event_id": "qii-20261020-ben-thuy-toll",
+      "source_url": "https://baodautu.vn/tam-dung-thu-phi-dich-vu-su-dung-duong-bo-tai-tram-ben-thuy-va-ben-thuy-2-d725927.html",
+      "source_published_at": "2026-10-19",
+      "category": "infrastructure",
+      "region": "Nghe An, Ha Tinh",
+      "fact_ledger": [
+        "Ben Thuy and Ben Thuy 2 toll collection suspended 30 days",
+        "Effective 2026-10-20 00:00"
+      ],
+      "source_count": 1,
+      "confidence": "SINGLE_SOURCE_REVIEW_REQUIRED",
+      "rights": "FACTS_ONLY; ORIGINAL_EXPRESSION_NOT_LICENSED",
+      "editorial_status": "DRAFT_NEEDS_FACT_RIGHTS_REVIEW",
+      "publication_status": "NOT_PUBLISHED"
+    },
+    {
+      "event_id": "qii-20261020-lang-son-smart-border",
+      "source_url": "https://baochinhphu.vn/thao-go-kho-khan-vuong-mac-phan-dau-hoan-thanh-giai-doan-1-de-an-cua-khau-thong-minh-tai-lang-son-trong-quy-i-2027-102261019142238432.htm",
+      "source_published_at": "2026-10-19",
+      "category": "trade",
+      "region": "Lang Son",
+      "fact_ledger": [
+        "Government reviewed Lang Son smart border pilot obstacles",
+        "Phase-one target Q1 2027"
+      ],
+      "source_count": 1,
+      "confidence": "SINGLE_SOURCE_REVIEW_REQUIRED",
+      "rights": "FACTS_ONLY; ORIGINAL_EXPRESSION_NOT_LICENSED",
+      "editorial_status": "DRAFT_NEEDS_FACT_RIGHTS_REVIEW",
+      "publication_status": "NOT_PUBLISHED"
+    },
+    {
+      "event_id": "qii-20261020-hanoi-public-investment",
+      "source_url": "https://thanglong.baochinhphu.vn/ha-noi-thi-diem-cham-diem-giai-ngan-von-dau-tu-cong-103261019171438331.htm",
+      "source_published_at": "2026-10-19",
+      "category": "policy",
+      "region": "Ha Noi",
+      "fact_ledger": [
+        "Hanoi directive 5304/UBND-KT pilots disbursement scoring in Q4 2026",
+        "Potential extension January 2027 subject to trial"
+      ],
+      "source_count": 1,
+      "confidence": "SINGLE_SOURCE_REVIEW_REQUIRED",
+      "rights": "FACTS_ONLY; ORIGINAL_EXPRESSION_NOT_LICENSED",
+      "editorial_status": "DRAFT_NEEDS_FACT_RIGHTS_REVIEW",
+      "publication_status": "NOT_PUBLISHED"
+    },
+    {
+      "event_id": "qii-20261020-hanoi-digital-consumption",
+      "source_url": "https://thanglong.baochinhphu.vn/ha-noi-dat-muc-tieu-co-500-chu-the-tham-gia-mo-hinh-tieu-dung-so-10326101916521884.htm",
+      "source_published_at": "2026-10-19",
+      "category": "trade",
+      "region": "Ha Noi",
+      "fact_ledger": [
+        "Hanoi Plan 403/KH-UBND digital-commerce pilot",
+        "2028 targets 500 entities and 1,000 online products"
+      ],
+      "source_count": 1,
+      "confidence": "SINGLE_SOURCE_REVIEW_REQUIRED",
+      "rights": "FACTS_ONLY; ORIGINAL_EXPRESSION_NOT_LICENSED",
+      "editorial_status": "DRAFT_NEEDS_FACT_RIGHTS_REVIEW",
+      "publication_status": "NOT_PUBLISHED"
+    },
+    {
+      "event_id": "qii-20261020-hanoi-tourism-hotels",
+      "source_url": "https://thanglong.baochinhphu.vn/den-nam-2030-ha-noi-phan-dau-don-13-15-trieu-luot-khach-quoc-te-103261019205622296.htm",
+      "source_published_at": "2026-10-19",
+      "category": "tourism",
+      "region": "Ha Noi",
+      "fact_ledger": [
+        "2030 international tourism target 13-15m visits",
+        "Aim to add at least 10,000 4-5 star hotel rooms"
+      ],
+      "source_count": 1,
+      "confidence": "SINGLE_SOURCE_REVIEW_REQUIRED",
+      "rights": "FACTS_ONLY; ORIGINAL_EXPRESSION_NOT_LICENSED",
+      "editorial_status": "DRAFT_NEEDS_FACT_RIGHTS_REVIEW",
+      "publication_status": "NOT_PUBLISHED"
+    },
+    {
+      "event_id": "qii-20261020-hanoi-green-space",
+      "source_url": "https://thanglong.baochinhphu.vn/ha-noi-phat-trien-ha-tang-xanh-do-thi-voi-tam-nhin-100-nam-103261019170324346.htm",
+      "source_published_at": "2026-10-19",
+      "category": "infrastructure",
+      "region": "Ha Noi",
+      "fact_ledger": [
+        "Hanoi 2030 goal urban green space >10 square meters per person",
+        "Plans interconnected parks, waterfronts and ecological corridors"
+      ],
+      "source_count": 1,
+      "confidence": "SINGLE_SOURCE_REVIEW_REQUIRED",
+      "rights": "FACTS_ONLY; ORIGINAL_EXPRESSION_NOT_LICENSED",
+      "editorial_status": "DRAFT_NEEDS_FACT_RIGHTS_REVIEW",
+      "publication_status": "NOT_PUBLISHED"
+    },
+    {
+      "event_id": "qii-20261020-hanoi-metro-line3",
+      "source_url": "https://thanglong.baochinhphu.vn/tu-tuyen-metro-nhon-ga-ha-noi-mo-rong-hop-tac-quoc-te-phat-trien-duong-sat-do-thi-103261019182223057.htm",
+      "source_published_at": "2026-10-19",
+      "category": "infrastructure",
+      "region": "Ha Noi",
+      "fact_ledger": [
+        "October 19 Hanoi Metro Line 3 project commemoration",
+        "France, AFD, ADB, EIB participating; not a new line approval"
+      ],
+      "source_count": 1,
+      "confidence": "SINGLE_SOURCE_REVIEW_REQUIRED",
+      "rights": "FACTS_ONLY; ORIGINAL_EXPRESSION_NOT_LICENSED",
+      "editorial_status": "DRAFT_NEEDS_FACT_RIGHTS_REVIEW",
+      "publication_status": "NOT_PUBLISHED"
+    },
+    {
+      "event_id": "qii-20261020-quang-tri-aviation-talks",
+      "source_url": "https://baochinhphu.vn/hop-tac-phat-trien-ha-tang-hang-khong-mang-duong-bay-tai-quang-tri-102261019192109534.htm",
+      "source_published_at": "2026-10-19",
+      "category": "infrastructure",
+      "region": "Quang Tri",
+      "fact_ledger": [
+        "Quang Tri talks with ACV and T&T",
+        "Exploratory airport, route, tourism and logistics cooperation"
+      ],
+      "source_count": 1,
+      "confidence": "SINGLE_SOURCE_REVIEW_REQUIRED",
+      "rights": "FACTS_ONLY; ORIGINAL_EXPRESSION_NOT_LICENSED",
+      "editorial_status": "DRAFT_NEEDS_FACT_RIGHTS_REVIEW",
+      "publication_status": "NOT_PUBLISHED"
+    },
+    {
+      "event_id": "qii-20261020-eurocham-confidence",
+      "source_url": "https://en.baochinhphu.vn/european-businesses-remain-upbeat-about-viet-nams-economic-outlook-111261016103003567.htm",
+      "source_published_at": "2026-10-16",
+      "category": "investment",
+      "region": "Viet Nam",
+      "fact_ledger": [
+        "EuroCham Q3 2026 BCI = 78.3",
+        "Down 1.4 points q/q; sentiment survey"
+      ],
+      "source_count": 1,
+      "confidence": "SINGLE_SOURCE_REVIEW_REQUIRED",
+      "rights": "FACTS_ONLY; ORIGINAL_EXPRESSION_NOT_LICENSED",
+      "editorial_status": "DRAFT_NEEDS_FACT_RIGHTS_REVIEW",
+      "publication_status": "NOT_PUBLISHED"
+    },
+    {
+      "event_id": "qii-20261020-hanoi-project-backlog",
+      "source_url": "https://thanglong.baochinhphu.vn/ha-noi-quyet-liet-xu-ly-cac-du-an-cham-trien-khai-kien-quyet-thu-hoi-dat-de-tranh-lang-phi-10326101619484043.htm",
+      "source_published_at": "2026-10-15",
+      "category": "real-estate",
+      "region": "Ha Noi",
+      "fact_ledger": [
+        "Hanoi reviewing 270 delayed non-budget investment projects",
+        "Additional 191 new cases being reviewed, not all cancelled"
+      ],
+      "source_count": 1,
+      "confidence": "SINGLE_SOURCE_REVIEW_REQUIRED",
+      "rights": "FACTS_ONLY; ORIGINAL_EXPRESSION_NOT_LICENSED",
+      "editorial_status": "DRAFT_NEEDS_FACT_RIGHTS_REVIEW",
+      "publication_status": "NOT_PUBLISHED"
+    }
+  ]
+}
