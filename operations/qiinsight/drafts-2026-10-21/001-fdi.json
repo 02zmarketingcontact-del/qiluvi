@@ -1,0 +1,42 @@
+{
+  "event_id": "QII-20261021-001",
+  "topic": "investment",
+  "region": "Vietnam",
+  "source_urls": [
+    "https://en.vietnamplus.vn/fdi-inflows-boost-vietnams-economic-growth-post353986.vnp",
+    "https://www2.en.baochinhphu.vn/von-fdi-thuc-hien-9-thang-dat-hon-21-ti-usd-cao-nhat-cung-ky-5-nam-qua-102261003103902217.htm"
+  ],
+  "claims": [
+    "2026 Jan-Sep FDI registered USD50.36bn +76.4% y/y",
+    "Disbursed USD21.07bn +12.1% y/y"
+  ],
+  "rights": "FACTS_ONLY_REVIEW",
+  "verification": "CORROBORATED_CORE_NUMBERS",
+  "publication": "DRAFT_NOT_PUBLISHED",
+  "locales": {
+    "vi": {
+      "title": "FDI 9 tháng 2026: vốn đăng ký 50,36 tỷ USD và vốn thực hiện 21,07 tỷ USD",
+      "brief": "Trong 9 tháng đầu năm 2026, FDI đăng ký vào Việt Nam đạt 50,36 tỷ USD, tăng 76,4% so với cùng kỳ. Vốn thực hiện đạt 21,07 tỷ USD, tăng 12,1%. Hai chỉ tiêu phản ánh các giai đoạn đầu tư khác nhau.",
+      "analysis": "Doanh nghiệp cung ứng nên theo dõi tiến độ xây dựng nhà máy và chi tiêu vốn thực tế, thay vì suy diễn từ vốn đăng ký.",
+      "watch": "Kiểm tra phân bổ theo ngành, địa phương và tiến độ dự án."
+    },
+    "en": {
+      "title": "Vietnam reports $50.36bn in registered FDI and $21.07bn in disbursements",
+      "brief": "Vietnam reported $50.36 billion in registered FDI for the first nine months of 2026, up 76.4% year on year; actual disbursements reached $21.07 billion, up 12.1%. The measures capture different stages of investment.",
+      "analysis": "Industrial suppliers should track commissioning schedules and procurement, not assume registered capital immediately becomes operational demand.",
+      "watch": "Monitor sector allocation and project milestones."
+    },
+    "zh-CN": {
+      "title": "越南前九个月外资注册额503.6亿美元，实际到位210.7亿美元",
+      "brief": "2026年前九个月，越南外商直接投资注册额达503.6亿美元，同比增长76.4%；实际到位金额为210.7亿美元，同比增长12.1%。两项指标反映不同投资阶段。",
+      "analysis": "工业供应商更应关注工厂开工、投产及实际采购，而非仅以注册资本推算即时订单。",
+      "watch": "跟踪行业分布与项目进度。"
+    },
+    "zh-TW": {
+      "title": "越南前九個月外資登記額503.6億美元，實際到位210.7億美元",
+      "brief": "2026年前九個月，越南外商直接投資登記額達503.6億美元，年增76.4%；實際到位金額210.7億美元，年增12.1%。兩項指標代表不同投資階段。",
+      "analysis": "工業供應商應追蹤工廠開工、投產及實際採購，不能僅以登記金額推估即時訂單。",
+      "watch": "持續追蹤產業分布與專案進度。"
+    }
+  }
+}
