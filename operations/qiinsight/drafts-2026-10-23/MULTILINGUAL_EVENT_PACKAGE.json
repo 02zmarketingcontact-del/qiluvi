@@ -1,0 +1,883 @@
+{
+  "package": "QiInsight Daily Multilingual Editorial DRAFT",
+  "date": "2026-10-23",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "total_events": 20,
+  "locale_counts": {
+    "vi-VN": 20,
+    "en": 20,
+    "zh-CN": 20,
+    "zh-TW": 20
+  },
+  "unique_source_urls": 27,
+  "policy": "Every event follows FACTS_ONLY drafting; no original press text or media assets reproduced. Source rights not licensed or fully reviewed. Human review, primary-source fact validation where material, 4-locale copyediting, SEO enrichment, and legal review required before public publication. Do NOT mark published.",
+  "events": [
+    {
+      "event_id": "VN-20261023-001",
+      "slug": "electricity-security-2027-2030",
+      "sector": "energy",
+      "event_date": "2026-10-22",
+      "discovered_date": "2026-10-23",
+      "source_urls": [
+        "https://congthuong.vn/thu-tuong-chi-dao-tap-trung-trien-khai-ngay-cac-giai-phap-bao-dam-cung-ung-dien-giai-doan-2027-2030-478177.html",
+        "https://bnews.vn/thu-tuong-yeu-cau-trien-khai-ngay-giai-phap-bao-dam-cung-ung-dien-giai-doan-2027-2030/441584.html"
+      ],
+      "claim_ledger": [
+        "Văn phòng Chính phủ truyền đạt chỉ đạo tại Công văn 10790/VPCP-CN ngày 22/10/2026; thúc đẩy điện mặt trời mái nhà tự sản tự tiêu và lưu trữ BESS cho bảo đảm cung ứng 2027-2030."
+      ],
+      "verification": "MULTI_COVERAGE_SAME_DIRECTIVE",
+      "rights_status": "FACTS_ONLY_RIGHTS_REVIEW",
+      "editorial_status": "DRAFT_NOT_INDEX_READY",
+      "published_urls": [],
+      "locales": {
+        "vi-VN": {
+          "title": "Bảo đảm điện 2027–2030: thêm tín hiệu cho điện mặt trời mái nhà và BESS",
+          "summary": "Công văn 10790/VPCP-CN ngày 22/10 yêu cầu đẩy nhanh giải pháp bảo đảm cung ứng điện, trong đó có điện mặt trời mái nhà tự sản tự tiêu và hệ thống lưu trữ năng lượng BESS. Đây là chỉ đạo triển khai, không phải thông báo dự án hoặc công suất mới đã vận hành.",
+          "business_angle": "Nhà máy nên rà soát phụ tải giờ cao điểm, quy định đấu nối và hiệu quả kinh tế trước khi lập phương án đầu tư.",
+          "status": "DRAFT"
+        },
+        "en": {
+          "title": "Vietnam steps up 2027–2030 power-supply measures",
+          "summary": "An October 22 government-office directive calls for more urgent power-supply measures, including self-consumption rooftop solar and battery storage. The directive is an implementation instruction, not proof that new capacity is already online.",
+          "business_angle": "Industrial users should test peak-load profiles, grid-connection rules and project economics before treating storage as an investable opportunity.",
+          "status": "DRAFT"
+        },
+        "zh-CN": {
+          "title": "越南部署2027—2030年电力保供措施",
+          "summary": "越南政府办公厅10月22日文件要求推进电力保障工作，其中包括自发自用屋顶光伏及电池储能系统（BESS）。政策部署不等于相关项目已经建成投运。",
+          "business_angle": "制造企业应先核算高峰负荷、并网要求与投资回收期，再判断储能配置价值。",
+          "status": "DRAFT"
+        },
+        "zh-TW": {
+          "title": "越南推進2027至2030年電力供應保障",
+          "summary": "越南政府辦公廳10月22日文件要求加快供電保障措施，包含自發自用屋頂太陽能與電池儲能系統（BESS）。政策要求不代表新增裝置已經完工上線。",
+          "business_angle": "製造業者應先檢視尖峰用電、併網規定及回收期，避免把政策訊號誤認為已落地的商機。",
+          "status": "DRAFT"
+        }
+      }
+    },
+    {
+      "event_id": "VN-20261023-002",
+      "slug": "hcmc-export-2026-fair",
+      "sector": "trade",
+      "event_date": "2026-10-22",
+      "discovered_date": "2026-10-23",
+      "source_urls": [
+        "https://baotintuc.vn/tp-ho-chi-minh-ket-noi-nha-mua-hang-quoc-te-de-mo-rong-xuat-khau-post1396521.html",
+        "https://congthuong.vn/lien-ket-chuoi-cung-ung-xanh-mo-rong-co-hoi-xuat-khau-hang-viet-di-xa-478082.html"
+      ],
+      "claim_ledger": [
+        "HCMC Export 2026 khai mạc 22/10 tại WTC Expo; tin TTXVN ghi nhận 750 gian hàng và 230 nhà mua hàng quốc tế, diễn đàn nhấn mạnh chuỗi cung ứng xanh."
+      ],
+      "verification": "MULTI_COVERAGE_SAME_EVENT",
+      "rights_status": "FACTS_ONLY_RIGHTS_REVIEW",
+      "editorial_status": "DRAFT_NOT_INDEX_READY",
+      "published_urls": [],
+      "locales": {
+        "vi-VN": {
+          "title": "HCMC Export 2026: cơ hội tiếp cận nhà mua hàng nhưng chưa phải đơn hàng",
+          "summary": "Hội chợ HCMC Export 2026 khai mạc ngày 22/10 tại WTC Expo. Thông tin sự kiện ghi nhận 750 gian hàng và 230 nhà mua hàng quốc tế; hoạt động trao đổi xoay quanh xuất khẩu xanh và kết nối cung ứng.",
+          "business_angle": "Doanh nghiệp nên theo dõi số cuộc gặp, yêu cầu chứng nhận và đơn hàng ký thật; số gian hàng không phản ánh doanh số.",
+          "status": "DRAFT"
+        },
+        "en": {
+          "title": "HCMC Export fair puts buyers and greener supply chains in focus",
+          "summary": "HCMC Export 2026 opened on October 22 at WTC Expo, with 750 booths and 230 international buyers reported. Discussions also addressed greener supply chains and export readiness.",
+          "business_angle": "For suppliers, qualified leads, compliance demands and signed purchase orders matter more than visitor or booth totals.",
+          "status": "DRAFT"
+        },
+        "zh-CN": {
+          "title": "2026年胡志明市出口展聚焦海外采购与绿色供应链",
+          "summary": "HCMC Export 2026于10月22日在WTC Expo开幕，报道显示有750个展位及230名国际采购商，并围绕绿色出口与供应链合作展开交流。",
+          "business_angle": "企业应进一步核查采购商需求、认证门槛及实际订单；参展规模不能等同于成交额。",
+          "status": "DRAFT"
+        },
+        "zh-TW": {
+          "title": "2026年胡志明市出口展聚焦海外買家與綠色供應鏈",
+          "summary": "HCMC Export 2026於10月22日在WTC Expo開幕，報導指出共有750個攤位與230名國際採購商，並討論綠色出口及供應鏈合作。",
+          "business_angle": "供應商應追蹤買家需求、認證條件及實際訂單，不能把展覽規模直接視為營收。",
+          "status": "DRAFT"
+        }
+      }
+    },
+    {
+      "event_id": "VN-20261023-003",
+      "slug": "hanoi-22-metro-stations-consultation",
+      "sector": "infrastructure",
+      "event_date": "2026-10-22",
+      "discovered_date": "2026-10-23",
+      "source_urls": [
+        "https://baotintuc.vn/quy-hoach-22-nha-ga-duong-sat-do-thi-ha-noi-nguoi-dan-duoc-gop-y-nhung-gi-post1396556.html",
+        "https://vneconomy.vn/ha-noi-lay-y-kien-nguoi-dan-ve-quy-hoach-22-nha-ga-metro.htm"
+      ],
+      "claim_ledger": [
+        "Hà Nội công khai lấy ý kiến hồ sơ quy hoạch 1/500 cho 22 ga ưu tiên thuộc tuyến metro số 1,2,8,10,14; chưa phải phê duyệt cuối."
+      ],
+      "verification": "MULTI_COVERAGE_SAME_PLANNING_RELEASE",
+      "rights_status": "FACTS_ONLY_RIGHTS_REVIEW",
+      "editorial_status": "DRAFT_NOT_INDEX_READY",
+      "published_urls": [],
+      "locales": {
+        "vi-VN": {
+          "title": "Hà Nội lấy ý kiến quy hoạch 22 ga metro: cần phân biệt dự thảo với phê duyệt",
+          "summary": "Các phương án quy hoạch chi tiết 1/500 cho 22 ga ưu tiên trên năm tuyến metro Hà Nội đang được niêm yết lấy ý kiến. Hồ sơ bao gồm lối lên xuống, khu vực giải phóng mặt bằng và định hướng TOD.",
+          "business_angle": "Nhà đầu tư bất động sản không nên định giá đất theo vị trí ga dự thảo như thể ranh giới và tiến độ xây dựng đã chốt.",
+          "status": "DRAFT"
+        },
+        "en": {
+          "title": "Hanoi consults communities on 22 planned metro stations",
+          "summary": "Hanoi has placed 1:500 planning documents for 22 priority stations across five metro lines on public consultation. Station access, land-clearance boundaries and transit-oriented development concepts remain subject to review.",
+          "business_angle": "Property analysis should separate proposed station locations from approved alignments, construction milestones and actual accessibility.",
+          "status": "DRAFT"
+        },
+        "zh-CN": {
+          "title": "河内就22座拟建地铁站规划征求公众意见",
+          "summary": "河内公布五条地铁线路共22座优先车站的1:500详细规划文件，征求社区意见。出入口、征地边界及TOD开发方向尚处于规划审查环节。",
+          "business_angle": "房地产评估应区分拟定站点与最终批准位置，不能据此直接推断周边地价涨幅。",
+          "status": "DRAFT"
+        },
+        "zh-TW": {
+          "title": "河內就22座規劃捷運站徵詢民眾意見",
+          "summary": "河內公開五條都會軌道線共22座優先車站的1:500細部規劃，向居民徵詢意見。出入口、徵地範圍及TOD構想仍待後續程序確認。",
+          "business_angle": "不動產評估應區分規劃方案、正式核准與實際通車時間，避免過早反映在估價中。",
+          "status": "DRAFT"
+        }
+      }
+    },
+    {
+      "event_id": "VN-20261023-004",
+      "slug": "vneid-singpass-laeid-trial",
+      "sector": "policy",
+      "event_date": "2026-10-22",
+      "discovered_date": "2026-10-23",
+      "source_urls": [
+        "https://en.vietnamplus.vn/vietnam-singapore-digital-id-link-a-test-for-asean-interoperability-post354097.vnp"
+      ],
+      "claim_ledger": [
+        "Quyết định 1830/QĐ-TTg ngày 22/9/2026 nêu kế hoạch kết nối thử VNeID với Singpass và LAeID, mục tiêu trước 15/11/2026."
+      ],
+      "verification": "SINGLE_SOURCE",
+      "rights_status": "FACTS_ONLY_RIGHTS_REVIEW",
+      "editorial_status": "DRAFT_NOT_INDEX_READY",
+      "published_urls": [],
+      "locales": {
+        "vi-VN": {
+          "title": "VNeID hướng tới kết nối Singpass và LAeID: mới ở mốc thử nghiệm",
+          "summary": "Kế hoạch theo Quyết định 1830/QĐ-TTg đặt mục tiêu thử kết nối định danh điện tử Việt Nam với Singapore và Lào trước 15/11/2026. Chưa có cơ sở khẳng định mọi thủ tục xuyên biên giới đã dùng được tính năng này.",
+          "business_angle": "Doanh nghiệp có thể theo dõi khả năng xác thực số trong tương lai, nhưng vẫn cần tuân thủ quy trình hiện hành.",
+          "status": "DRAFT"
+        },
+        "en": {
+          "title": "Vietnam targets cross-border digital-ID trials with Singapore and Laos",
+          "summary": "A government decision targets trial links between VNeID, Singapore's Singpass and Laos's LAeID before November 15, 2026. Trial interoperability is not the same as production-ready recognition for every transaction.",
+          "business_angle": "Cross-border service providers should monitor accepted use cases and privacy safeguards rather than assume immediate procedural changes.",
+          "status": "DRAFT"
+        },
+        "zh-CN": {
+          "title": "越南计划试点对接新加坡与老挝数字身份系统",
+          "summary": "根据相关政府决定，越南拟于11月15日前试行VNeID与新加坡Singpass、老挝LAeID的连接。试点目标不代表所有跨境手续已实现互认。",
+          "business_angle": "跨境服务企业应持续核对适用场景、隐私规则和正式上线时间。",
+          "status": "DRAFT"
+        },
+        "zh-TW": {
+          "title": "越南規劃試行對接新加坡及寮國數位身分系統",
+          "summary": "依政府相關決定，越南目標於11月15日前試行VNeID與新加坡Singpass、寮國LAeID的連結。試行互通不等於所有跨境程序均已正式承認。",
+          "business_angle": "跨境服務業者應追蹤實際適用業務、個資規範及正式啟用時間。",
+          "status": "DRAFT"
+        }
+      }
+    },
+    {
+      "event_id": "VN-20261023-005",
+      "slug": "phu-quoc-apec-project-progress",
+      "sector": "infrastructure",
+      "event_date": "2026-10-22",
+      "discovered_date": "2026-10-23",
+      "source_urls": [
+        "https://en.vietnamplus.vn/phu-quoc-accelerates-infrastructure-development-for-apec-2027-post354072.vnp"
+      ],
+      "claim_ledger": [
+        "An Giang thúc đẩy công trình tại đặc khu Phú Quốc phục vụ APEC 2027; tồn tại vướng đất đai, vốn đối ứng và vật liệu."
+      ],
+      "verification": "SINGLE_SOURCE",
+      "rights_status": "FACTS_ONLY_RIGHTS_REVIEW",
+      "editorial_status": "DRAFT_NOT_INDEX_READY",
+      "published_urls": [],
+      "locales": {
+        "vi-VN": {
+          "title": "Phú Quốc tăng tốc hạ tầng APEC 2027, tiến độ vẫn phụ thuộc mặt bằng",
+          "summary": "Chính quyền An Giang đang đẩy nhanh các dự án ở đặc khu Phú Quốc để chuẩn bị APEC 2027, đồng thời giải quyết vấn đề đất đai, vốn đối ứng và vật liệu xây dựng. Đây là hoạt động điều hành tiến độ, không xác nhận mọi công trình hoàn tất đúng hạn.",
+          "business_angle": "Khách sạn và nhà cung cấp dịch vụ nên theo dõi ngày bàn giao từng hạng mục, kết nối giao thông và nhu cầu lưu trú thực tế.",
+          "status": "DRAFT"
+        },
+        "en": {
+          "title": "Phu Quoc accelerates APEC 2027 preparations amid delivery constraints",
+          "summary": "An Giang authorities are pushing infrastructure works in Phu Quoc ahead of APEC 2027 while addressing land, counterpart funding and materials constraints. A progress drive does not guarantee each project will finish on schedule.",
+          "business_angle": "Hospitality operators should track individual completion dates, transport links and measurable room-night demand.",
+          "status": "DRAFT"
+        },
+        "zh-CN": {
+          "title": "富国岛加快APEC 2027基础设施建设",
+          "summary": "安江省正推动富国岛相关项目进度，同时处理用地、配套资金及建材供应问题。加快施工的行政要求并不意味着工程已完工。",
+          "business_angle": "酒店及旅游投资者宜逐项跟踪交付节点、交通改善和实际客房需求。",
+          "status": "DRAFT"
+        },
+        "zh-TW": {
+          "title": "富國島加速APEC 2027基礎設施工程",
+          "summary": "安江省正推進富國島相關建設，並處理用地、配套資金及建材供應限制。行政加速措施不代表所有工程可如期完工。",
+          "business_angle": "旅宿業者宜追蹤各工程交付時程、交通連結與實際住房需求。",
+          "status": "DRAFT"
+        }
+      }
+    },
+    {
+      "event_id": "VN-20261023-006",
+      "slug": "textile-origin-trade-remedies",
+      "sector": "trade",
+      "event_date": "2026-10-22",
+      "discovered_date": "2026-10-23",
+      "source_urls": [
+        "https://congthuong.vn/nang-cap-chuoi-cung-ung-det-may-giam-rui-ro-phong-ve-thuong-mai-478103.html"
+      ],
+      "claim_ledger": [
+        "Hội thảo ngày 22/10 về xuất xứ và phòng vệ thương mại cảnh báo doanh nghiệp dệt may rủi ro nguồn nguyên liệu, gian lận xuất xứ."
+      ],
+      "verification": "SINGLE_SOURCE",
+      "rights_status": "FACTS_ONLY_RIGHTS_REVIEW",
+      "editorial_status": "DRAFT_NOT_INDEX_READY",
+      "published_urls": [],
+      "locales": {
+        "vi-VN": {
+          "title": "Dệt may Việt Nam: quản lý xuất xứ đang trở thành bài toán vận hành",
+          "summary": "Tại hội thảo ngày 22/10, đại diện cơ quan phòng vệ thương mại trao đổi về rủi ro điều tra thương mại và chứng minh xuất xứ trong ngành dệt may. Đây là cảnh báo tuân thủ, không phải thông báo một biện pháp thuế mới áp dụng cho toàn ngành.",
+          "business_angle": "Doanh nghiệp nên đối chiếu hồ sơ nguyên phụ liệu, công đoạn gia công và quy tắc xuất xứ theo từng FTA.",
+          "status": "DRAFT"
+        },
+        "en": {
+          "title": "Textile exporters face sharper origin-documentation demands",
+          "summary": "A trade-remedies workshop on October 22 highlighted origin risks and supply-chain transparency for Vietnamese textile exporters. The discussions did not announce a blanket new tariff.",
+          "business_angle": "Manufacturers should map material provenance and processing records against the rules of origin relevant to each destination market.",
+          "status": "DRAFT"
+        },
+        "zh-CN": {
+          "title": "越南纺织出口企业需强化原产地证据链",
+          "summary": "10月22日的贸易救济研讨会讨论了纺织服装行业的原产地风险和供应链透明度，并非宣布对全行业征收新税。",
+          "business_angle": "企业应按目标市场逐项检查原辅料来源、加工环节与自贸协定原产地规则。",
+          "status": "DRAFT"
+        },
+        "zh-TW": {
+          "title": "越南紡織出口業須加強產地證明管理",
+          "summary": "10月22日的貿易救濟研討會聚焦紡織成衣產地風險與供應鏈透明度，並非宣布全產業新增關稅。",
+          "business_angle": "企業應依出口目的地查核原物料來源、製程紀錄與各協定的原產地規則。",
+          "status": "DRAFT"
+        }
+      }
+    },
+    {
+      "event_id": "VN-20261023-007",
+      "slug": "hung-yen-export-processing-customs-risks",
+      "sector": "policy",
+      "event_date": "2026-10-22",
+      "discovered_date": "2026-10-23",
+      "source_urls": [
+        "https://amp.baodautu.vn/co-quan-hai-quan-canh-bao-14-nhom-rui-ro-doanh-nghiep-che-xuat-can-luu-y-d729192.html"
+      ],
+      "claim_ledger": [
+        "Hải quan khu vực IV ngày 22/10 cảnh báo 14 nhóm rủi ro doanh nghiệp chế xuất tại Hưng Yên, liên quan cơ sở sản xuất, miễn thuế, khai báo và xuất xứ."
+      ],
+      "verification": "SINGLE_SOURCE",
+      "rights_status": "FACTS_ONLY_RIGHTS_REVIEW",
+      "editorial_status": "DRAFT_NOT_INDEX_READY",
+      "published_urls": [],
+      "locales": {
+        "vi-VN": {
+          "title": "Hải quan lưu ý 14 nhóm rủi ro với doanh nghiệp chế xuất Hưng Yên",
+          "summary": "Tại hội nghị ngày 22/10, Chi cục Hải quan khu vực IV nêu 14 nhóm rủi ro quản lý doanh nghiệp chế xuất, tập trung vào cơ sở sản xuất, hàng miễn thuế, khai báo và xuất xứ. Danh sách cảnh báo không đồng nghĩa doanh nghiệp tham dự đang vi phạm.",
+          "business_angle": "Bộ phận xuất nhập khẩu nên dùng danh mục này để thiết kế kiểm toán hồ sơ và đối chiếu kho, định mức, tờ khai.",
+          "status": "DRAFT"
+        },
+        "en": {
+          "title": "Customs flags 14 risk groups for export-processing enterprises",
+          "summary": "At an October 22 briefing in Hung Yen, regional customs officials identified 14 risk groups around factory operations, duty-exempt goods, declarations and origin. A compliance warning does not establish wrongdoing by attending firms.",
+          "business_angle": "Export-processing enterprises can use the categories to review inventory controls and customs documentation.",
+          "status": "DRAFT"
+        },
+        "zh-CN": {
+          "title": "兴安省出口加工企业需排查14类海关合规风险",
+          "summary": "海关第四区域分局在10月22日会议上提醒出口加工企业关注14类风险，涉及生产场所、免税物资、报关和原产地。风险提示不等于认定相关企业违法。",
+          "business_angle": "建议企业针对台账、库存及报关记录开展内部合规检查。",
+          "status": "DRAFT"
+        },
+        "zh-TW": {
+          "title": "興安省出口加工企業面臨14類海關合規檢查重點",
+          "summary": "海關第四區域分局於10月22日會議提醒出口加工企業注意14類風險，涵蓋生產場所、免稅貨物、申報與產地。提醒不代表與會企業已違規。",
+          "business_angle": "企業可依此檢查庫存紀錄、報關文件與內控流程。",
+          "status": "DRAFT"
+        }
+      }
+    },
+    {
+      "event_id": "VN-20261023-008",
+      "slug": "coffee-season-2025-26-value-volume",
+      "sector": "trade",
+      "event_date": "2026-10-22",
+      "discovered_date": "2026-10-23",
+      "source_urls": [
+        "https://congthuong.vn/hieu-qua-cua-nong-san-che-bien-nhin-tu-nganh-ca-phe-477851.html"
+      ],
+      "claim_ledger": [
+        "Bài báo trích VICOFA niên vụ 2025-26 xuất khẩu cà phê ~1,8 triệu tấn / ~8,5 tỷ USD; lượng +21%, giá trị +1% so với niên vụ trước."
+      ],
+      "verification": "SINGLE_SOURCE",
+      "rights_status": "FACTS_ONLY_RIGHTS_REVIEW",
+      "editorial_status": "DRAFT_NOT_INDEX_READY",
+      "published_urls": [],
+      "locales": {
+        "vi-VN": {
+          "title": "Cà phê Việt Nam: sản lượng xuất khẩu tăng nhanh hơn giá trị",
+          "summary": "Số liệu được báo chí dẫn từ VICOFA cho niên vụ 2025–2026 cho thấy khoảng 1,8 triệu tấn cà phê xuất khẩu, trị giá gần 8,5 tỷ USD; khối lượng tăng khoảng 21% nhưng giá trị chỉ tăng 1%. Các con số cần kiểm tra lại báo cáo hội nghị gốc trước khi công bố dạng dữ liệu chuẩn.",
+          "business_angle": "Doanh nghiệp chế biến nên theo dõi giá đơn vị, cơ cấu sản phẩm và lợi nhuận thay vì chỉ nhìn kim ngạch.",
+          "status": "DRAFT"
+        },
+        "en": {
+          "title": "Vietnam coffee volumes outpace export value in 2025–26",
+          "summary": "Press reporting of VICOFA's 2025–26 season review cites roughly 1.8 million tonnes and US$8.5 billion in coffee exports, with volume up 21% but value up only 1%. The underlying association release still needs direct confirmation.",
+          "business_angle": "Processors should monitor unit values and product mix, not just the headline export total.",
+          "status": "DRAFT"
+        },
+        "zh-CN": {
+          "title": "越南咖啡出口量增长快于出口额",
+          "summary": "媒体援引VICOFA的2025—2026产季数据称，咖啡出口约180万吨、85亿美元，数量同比增约21%，金额仅增约1%。基础协会报告仍需复核。",
+          "business_angle": "加工企业应关注单位售价、产品结构与利润率，而非只看出口总额。",
+          "status": "DRAFT"
+        },
+        "zh-TW": {
+          "title": "越南咖啡出口量增幅高於出口金額",
+          "summary": "媒體引述VICOFA的2025至2026產季數據，指出咖啡出口約180萬噸、85億美元，數量成長約21%，金額僅增約1%。仍待核對協會原始報告。",
+          "business_angle": "加工業者應觀察單位價格、產品組合及毛利，而非僅比較出口總額。",
+          "status": "DRAFT"
+        }
+      }
+    },
+    {
+      "event_id": "VN-20261023-009",
+      "slug": "israel-vifta-seafood",
+      "sector": "trade",
+      "event_date": "2026-10-22",
+      "discovered_date": "2026-10-23",
+      "source_urls": [
+        "https://congthuong.vn/co-hoi-tu-vifta-thuy-san-viet-sang-israel-tang-manh-478063.html"
+      ],
+      "claim_ledger": [
+        "Báo Công Thương ngày 22/10 dẫn số liệu thủy sản sang Israel 6 tháng đầu 2026 tăng 30,7%; đề cập VIFTA."
+      ],
+      "verification": "SINGLE_SOURCE",
+      "rights_status": "FACTS_ONLY_RIGHTS_REVIEW",
+      "editorial_status": "DRAFT_NOT_INDEX_READY",
+      "published_urls": [],
+      "locales": {
+        "vi-VN": {
+          "title": "Thủy sản sang Israel tăng theo báo cáo: doanh nghiệp cần kiểm tra lợi ích VIFTA",
+          "summary": "Nguồn tin ngày 22/10 cho biết kim ngạch thủy sản Việt Nam xuất sang Israel trong sáu tháng đầu 2026 tăng 30,7%. Đây là mức biến động theo thị trường, không chứng minh toàn bộ tăng trưởng đến từ ưu đãi VIFTA.",
+          "business_angle": "Nhà xuất khẩu cần đối chiếu mã HS, quy tắc xuất xứ và chứng từ để đánh giá ưu đãi thuế thực nhận.",
+          "status": "DRAFT"
+        },
+        "en": {
+          "title": "Seafood exports to Israel rise, but FTA benefits need case-by-case checks",
+          "summary": "An October 22 report cites 30.7% growth in Vietnamese seafood exports to Israel during the first half of 2026. This change cannot by itself be attributed entirely to VIFTA preferences.",
+          "business_angle": "Exporters should check product tariff lines, origin requirements and documentary eligibility before estimating savings.",
+          "status": "DRAFT"
+        },
+        "zh-CN": {
+          "title": "越南水产品对以色列出口增长，VIFTA优惠需逐项核实",
+          "summary": "10月22日报道称，2026年上半年越南对以色列水产品出口额同比增长30.7%。该增幅不能直接全部归因于越以自贸协定优惠。",
+          "business_angle": "出口商需核实商品编码、原产地条件及实际适用税率。",
+          "status": "DRAFT"
+        },
+        "zh-TW": {
+          "title": "越南水產品銷往以色列增加，VIFTA優惠仍須逐案確認",
+          "summary": "10月22日報導指出，2026年上半年越南對以色列水產品出口金額年增30.7%。成長不能全部視為自貿協定優惠的效果。",
+          "business_angle": "出口商應核對稅則號列、原產地資格與可用優惠。",
+          "status": "DRAFT"
+        }
+      }
+    },
+    {
+      "event_id": "VN-20261023-010",
+      "slug": "goglobal-export-program",
+      "sector": "policy",
+      "event_date": "2026-10-22",
+      "discovered_date": "2026-10-23",
+      "source_urls": [
+        "https://congthuong.vn/goglobal-nang-tam-doanh-nghiep-viet-tren-thi-truong-quoc-te-478050.html"
+      ],
+      "claim_ledger": [
+        "Cục Xúc tiến thương mại trình bày chương trình GoGlobal giai đoạn 2026-2030 tại hội nghị ngành Công Thương 22/10."
+      ],
+      "verification": "SINGLE_SOURCE",
+      "rights_status": "FACTS_ONLY_RIGHTS_REVIEW",
+      "editorial_status": "DRAFT_NOT_INDEX_READY",
+      "published_urls": [],
+      "locales": {
+        "vi-VN": {
+          "title": "GoGlobal 2026–2030: tín hiệu hỗ trợ doanh nghiệp Việt mở rộng ra nước ngoài",
+          "summary": "Đại diện Cục Xúc tiến thương mại giới thiệu định hướng chương trình GoGlobal 2026–2030 tại hội nghị ngành Công Thương ngày 22/10. Bản tin này ghi nhận định hướng triển khai, chưa xác minh danh mục hỗ trợ hoặc ngân sách mà từng doanh nghiệp được hưởng.",
+          "business_angle": "Doanh nghiệp nên theo dõi văn bản hướng dẫn, điều kiện tham gia và đầu mối tiếp nhận chính thức.",
+          "status": "DRAFT"
+        },
+        "en": {
+          "title": "Vietnam discusses GoGlobal framework for overseas expansion",
+          "summary": "Trade-promotion officials presented the 2026–2030 GoGlobal programme at an October 22 sector conference. The presentation signals policy direction but does not establish grants or benefits available to every company.",
+          "business_angle": "Interested exporters should wait for implementing criteria, applications and verified support channels.",
+          "status": "DRAFT"
+        },
+        "zh-CN": {
+          "title": "越南介绍2026—2030年GoGlobal企业出海计划",
+          "summary": "越南贸易促进机构在10月22日行业会议上介绍GoGlobal 2026—2030计划方向。会议介绍不等于每家企业已获得具体补贴或资助。",
+          "business_angle": "企业应关注后续实施文件、申请门槛及主管单位公告。",
+          "status": "DRAFT"
+        },
+        "zh-TW": {
+          "title": "越南提出2026至2030年GoGlobal企業海外拓展方向",
+          "summary": "越南貿易促進單位於10月22日產業會議介紹GoGlobal 2026至2030年計畫。方向性簡報不代表企業已可申領確定補助。",
+          "business_angle": "企業應追蹤正式實施要點、申請資格與官方公告。",
+          "status": "DRAFT"
+        }
+      }
+    },
+    {
+      "event_id": "VN-20261023-011",
+      "slug": "vincom-qooqoo-mou",
+      "sector": "consumer",
+      "event_date": "2026-10-22",
+      "discovered_date": "2026-10-23",
+      "source_urls": [
+        "https://vietnamnews.vn/media-outreach/1802605/vincom-retail-partners-with-south-korean-premium-buffet-giant-qooqoo.html"
+      ],
+      "claim_ledger": [
+        "Vincom Retail và QooQoo Franchise Group công bố MoU 22/10 nhằm nghiên cứu mô hình ăn uống tại trung tâm thương mại đến 2027."
+      ],
+      "verification": "SINGLE_SOURCE",
+      "rights_status": "FACTS_ONLY_RIGHTS_REVIEW",
+      "editorial_status": "DRAFT_NOT_INDEX_READY",
+      "published_urls": [],
+      "locales": {
+        "vi-VN": {
+          "title": "Vincom Retail và QooQoo ký MOU: mở hướng kinh doanh nhà hàng trong TTTM",
+          "summary": "Thông cáo ngày 22/10 cho biết Vincom Retail và tập đoàn nhượng quyền QooQoo của Hàn Quốc ký biên bản ghi nhớ hợp tác tìm kiếm cơ hội phát triển mô hình ăn uống. MoU chưa đồng nghĩa hợp đồng thuê mặt bằng hoặc chuỗi nhà hàng đã mở.",
+          "business_angle": "Nhà khai thác trung tâm thương mại nên theo dõi địa điểm khai trương thực, tỷ lệ lấp đầy và doanh thu trên diện tích.",
+          "status": "DRAFT"
+        },
+        "en": {
+          "title": "Vincom Retail explores Korean dining concepts under QooQoo MoU",
+          "summary": "Vincom Retail and South Korea's QooQoo Franchise Group announced a cooperation memorandum on October 22 to explore restaurant concepts in retail properties. The memorandum is not evidence that leases or store openings are finalised.",
+          "business_angle": "Retail-property analysts should watch actual openings, occupancy and tenant sales.",
+          "status": "DRAFT"
+        },
+        "zh-CN": {
+          "title": "Vincom Retail与韩国QooQoo探索购物中心餐饮合作",
+          "summary": "双方于10月22日公布合作谅解备忘录，拟研究在商业项目引入餐饮品牌。谅解备忘录不代表租赁协议或门店开业已经完成。",
+          "business_angle": "商业地产经营方可进一步关注实际开店、出租率及单位面积营业表现。",
+          "status": "DRAFT"
+        },
+        "zh-TW": {
+          "title": "Vincom Retail與韓國QooQoo探索購物中心餐飲合作",
+          "summary": "雙方於10月22日公布合作備忘錄，擬評估在商場導入餐飲品牌。備忘錄不等於租約簽署或門市已開業。",
+          "business_angle": "商用不動產業者宜追蹤實際開店、出租率與坪效。",
+          "status": "DRAFT"
+        }
+      }
+    },
+    {
+      "event_id": "VN-20261023-012",
+      "slug": "pvi-kbank-insurance-mou",
+      "sector": "finance",
+      "event_date": "2026-10-22",
+      "discovered_date": "2026-10-23",
+      "source_urls": [
+        "https://vietnamnews.vn/economy/1802583/pvi-insurance-looks-to-asia-and-middle-east-for-international-growth.html"
+      ],
+      "claim_ledger": [
+        "PVI Insurance công bố đã ký MoU với KASIKORNBANK tại Thái Lan ngày 20/10, nghiên cứu giới thiệu khách hàng, giải pháp tài chính-bảo hiểm."
+      ],
+      "verification": "SINGLE_SOURCE",
+      "rights_status": "FACTS_ONLY_RIGHTS_REVIEW",
+      "editorial_status": "DRAFT_NOT_INDEX_READY",
+      "published_urls": [],
+      "locales": {
+        "vi-VN": {
+          "title": "PVI mở rộng hợp tác khu vực: ký MOU với ngân hàng KBank",
+          "summary": "Theo thông tin công bố ngày 22/10, PVI Insurance đã ký MOU với KASIKORNBANK tại Thái Lan vào ngày 20/10 để tìm hiểu hợp tác giới thiệu khách hàng và giải pháp tài chính–bảo hiểm. Chưa có bằng chứng về doanh thu mới từ thỏa thuận.",
+          "business_angle": "Ngành bảo hiểm cần theo dõi thỏa thuận phân phối chính thức, phạm vi giấy phép và sản phẩm triển khai.",
+          "status": "DRAFT"
+        },
+        "en": {
+          "title": "PVI and KBank explore cross-border insurance cooperation",
+          "summary": "PVI Insurance reportedly signed an October 20 memorandum with Thailand's KASIKORNBANK covering potential customer referrals and financial-insurance solutions. Reported intentions are not realised revenue.",
+          "business_angle": "The next evidence points are distribution contracts, regulatory permissions and launched products.",
+          "status": "DRAFT"
+        },
+        "zh-CN": {
+          "title": "越南PVI保险与泰国KBank探索跨境合作",
+          "summary": "PVI保险据报道于10月20日与泰国开泰银行签署合作备忘录，讨论客户转介及金融保险服务。合作意向尚不能计为新增营业收入。",
+          "business_angle": "应关注正式分销协议、许可范围和已落地产品。",
+          "status": "DRAFT"
+        },
+        "zh-TW": {
+          "title": "越南PVI保險與泰國KBank探索跨境合作",
+          "summary": "據報PVI保險於10月20日與泰國開泰銀行簽署合作備忘錄，研議客戶轉介與金融保險解決方案。合作意向不等同已實現收入。",
+          "business_angle": "後續應查核正式通路合約、監理許可與商品上市情況。",
+          "status": "DRAFT"
+        }
+      }
+    },
+    {
+      "event_id": "VN-20261023-013",
+      "slug": "hatinh-chemical-plant-permit",
+      "sector": "industry",
+      "event_date": "2026-10-14",
+      "discovered_date": "2026-10-23",
+      "source_urls": [
+        "https://xuctiendautu.hatinh.gov.vn/vi/bai-viet/khu-cong-nghiep-phu-vinh-tiep-tuc-thu-hut-du-an-dau-tu-voi-tong-von-2800-ty-dong",
+        "https://vneconomy.vn/ha-tinh-them-du-an-cong-nghiep-2800-ty-dong.htm"
+      ],
+      "claim_ledger": [
+        "Ngày 14/10 dự án nhà máy hóa chất tại KCN Phú Vinh Hà Tĩnh được cấp chứng nhận đăng ký đầu tư, đăng ký 2.800 tỷ VND và công suất thiết kế 380.000 tấn/năm; tin cập nhật 22/10."
+      ],
+      "verification": "PRIMARY_PROVINCIAL_REPORT",
+      "rights_status": "FACTS_ONLY_RIGHTS_REVIEW",
+      "editorial_status": "DRAFT_NOT_INDEX_READY",
+      "published_urls": [],
+      "locales": {
+        "vi-VN": {
+          "title": "Hà Tĩnh: dự án hóa chất 2.800 tỷ có giấy chứng nhận đầu tư",
+          "summary": "Dự án nhà máy hóa chất và kho tại KCN Phú Vinh được cơ quan Hà Tĩnh thông tin đã cấp giấy chứng nhận đăng ký đầu tư ngày 14/10. Tổng vốn đăng ký 2.800 tỷ đồng và công suất thiết kế 380.000 tấn/năm không phải giá trị đã giải ngân hoặc sản lượng thực tế.",
+          "business_angle": "Nhà cung ứng cần kiểm tra tiến độ xây dựng, hồ sơ môi trường và yêu cầu kỹ thuật trước khi dự báo đơn hàng.",
+          "status": "DRAFT"
+        },
+        "en": {
+          "title": "Ha Tinh certifies VND2.8tn chemical-plant investment",
+          "summary": "Provincial investment-promotion records show an October 14 registration certificate for a chemical plant and warehouse in Phu Vinh Industrial Park, with VND2.8 trillion registered and 380,000 tonnes per year of planned capacity. These figures do not indicate spending or production to date.",
+          "business_angle": "Suppliers should track construction progress, environmental approvals and procurement schedules.",
+          "status": "DRAFT"
+        },
+        "zh-CN": {
+          "title": "河静省富荣工业园化工项目获投资登记",
+          "summary": "河静省官方资料显示，一项化工厂及仓储项目于10月14日取得投资登记证，登记投资额2.8万亿越盾、设计产能每年38万吨。登记金额并非已投入资金，设计产能也非实际产量。",
+          "business_angle": "设备供应商应核实环评、施工进度及采购时间表。",
+          "status": "DRAFT"
+        },
+        "zh-TW": {
+          "title": "河靜省富榮工業區化工案取得投資登記",
+          "summary": "河靜省官方資訊指出，化工廠及倉儲計畫於10月14日獲投資登記，登記投資額2.8兆越盾、規劃年產能38萬噸。兩者均非已執行資本或實際產量。",
+          "business_angle": "供應商應核對環境審查、工程進度與採購節點。",
+          "status": "DRAFT"
+        }
+      }
+    },
+    {
+      "event_id": "VN-20261023-014",
+      "slug": "gialai-japan-outreach",
+      "sector": "investment",
+      "event_date": "2026-10-21",
+      "discovered_date": "2026-10-23",
+      "source_urls": [
+        "https://www.sggp.org.vn/gia-lai-moi-goi-doanh-nghiep-nhat-ban-dau-tu-vao-5-linh-vuc-uu-tien-post877719.html"
+      ],
+      "claim_ledger": [
+        "Đoàn Gia Lai ngày 21/10 tổ chức xúc tiến tại Tokyo, ưu tiên lĩnh vực kinh tế, thông tin tin ngày 22/10."
+      ],
+      "verification": "SINGLE_SOURCE",
+      "rights_status": "FACTS_ONLY_RIGHTS_REVIEW",
+      "editorial_status": "DRAFT_NOT_INDEX_READY",
+      "published_urls": [],
+      "locales": {
+        "vi-VN": {
+          "title": "Gia Lai tiếp xúc nhà đầu tư Nhật: xúc tiến chưa đồng nghĩa dòng vốn vào",
+          "summary": "Đoàn tỉnh Gia Lai tổ chức hội nghị xúc tiến đầu tư, thương mại và du lịch tại Tokyo ngày 21/10, giới thiệu lợi thế về chế biến, năng lượng, kinh tế biển và du lịch. Sự kiện là bước kết nối, chưa chứng minh dự án mới đã được cấp phép.",
+          "business_angle": "Đối tác nên yêu cầu danh mục dự án, tình trạng đất và cơ chế ưu đãi được xác nhận.",
+          "status": "DRAFT"
+        },
+        "en": {
+          "title": "Gia Lai pitches investment opportunities in Tokyo",
+          "summary": "A Gia Lai delegation held an October 21 promotion event in Tokyo, highlighting sectors such as processing, energy, marine activities and tourism. Investor outreach should not be counted as approved FDI.",
+          "business_angle": "Prospective partners need project lists, land status and verified incentives before due diligence.",
+          "status": "DRAFT"
+        },
+        "zh-CN": {
+          "title": "嘉莱省在东京推介投资机会",
+          "summary": "嘉莱省代表团10月21日在东京开展投资、贸易和旅游推介，介绍加工制造、能源、海洋经济及旅游等方向。招商活动本身并不构成已核准外资项目。",
+          "business_angle": "投资者应先索取项目清单、土地状态及经核实的优惠政策。",
+          "status": "DRAFT"
+        },
+        "zh-TW": {
+          "title": "嘉萊省赴東京推介投資機會",
+          "summary": "嘉萊省代表團10月21日在東京舉行投資、貿易與觀光推介，涵蓋加工、能源、海洋產業及旅遊。招商活動不能直接列為已核准投資。",
+          "business_angle": "潛在合作方應查核專案名單、土地條件及優惠措施。",
+          "status": "DRAFT"
+        }
+      }
+    },
+    {
+      "event_id": "VN-20261023-015",
+      "slug": "tayninh-japan-investment-outreach",
+      "sector": "investment",
+      "event_date": "2026-10-22",
+      "discovered_date": "2026-10-23",
+      "source_urls": [
+        "https://baotintuc.vn/dia-phuong-viet-nam-uu-tien-thu-hut-dau-tu-nhat-ban-vao-cac-nganh-cong-nghiep-gia-tri-cao-post1396578.html"
+      ],
+      "claim_ledger": [
+        "Tỉnh Tây Ninh xúc tiến đầu tư tại Đại sứ quán Việt Nam ở Tokyo 22/10, trọng tâm công nghiệp công nghệ cao, logistics, nông sản, xanh."
+      ],
+      "verification": "SINGLE_SOURCE",
+      "rights_status": "FACTS_ONLY_RIGHTS_REVIEW",
+      "editorial_status": "DRAFT_NOT_INDEX_READY",
+      "published_urls": [],
+      "locales": {
+        "vi-VN": {
+          "title": "Tây Ninh xúc tiến tại Nhật Bản: ưu tiên công nghiệp và logistics",
+          "summary": "Ngày 22/10, Tây Ninh tổ chức hội nghị xúc tiến đầu tư ở Tokyo, giới thiệu cơ hội công nghiệp công nghệ cao, logistics, chế biến nông sản và chuyển đổi xanh. Hiện chưa có dữ kiện về hợp đồng hay giấy phép đầu tư phát sinh ngay từ hội nghị.",
+          "business_angle": "Doanh nghiệp cần đối chiếu vị trí khu công nghiệp, hạ tầng vận tải và năng lực lao động theo từng dự án.",
+          "status": "DRAFT"
+        },
+        "en": {
+          "title": "Tay Ninh seeks Japanese partners in industry and logistics",
+          "summary": "Tay Ninh held an investment-promotion conference in Tokyo on October 22 covering high-value manufacturing, logistics, agriprocessing and green transition. The conference itself is not a confirmed project pipeline.",
+          "business_angle": "Investors should assess industrial land, transport links and workforce availability at individual sites.",
+          "status": "DRAFT"
+        },
+        "zh-CN": {
+          "title": "西宁省在日本推介高附加值工业与物流项目",
+          "summary": "西宁省10月22日在东京举行投资促进活动，涉及高技术制造、物流、农产品加工及绿色转型。会议并非新投资许可或合同的直接证明。",
+          "business_angle": "企业仍须逐个核实园区用地、交通条件和人才供给。",
+          "status": "DRAFT"
+        },
+        "zh-TW": {
+          "title": "西寧省赴日推介高附加價值產業與物流",
+          "summary": "西寧省10月22日在東京舉辦招商活動，涵蓋高科技製造、物流、農產加工及綠色轉型。招商會本身不代表已有核准案或簽約投資。",
+          "business_angle": "投資者仍需查驗工業用地、交通及人力條件。",
+          "status": "DRAFT"
+        }
+      }
+    },
+    {
+      "event_id": "VN-20261023-016",
+      "slug": "lotte-thu-thiem-2026-10-23-planned",
+      "sector": "real-estate",
+      "event_date": "2026-10-22",
+      "discovered_date": "2026-10-23",
+      "source_urls": [
+        "https://www.phatdat.com.vn/news/lotte-phat-dat-ket-hop-kinh-nghiem-quoc-te-va-nang-luc-trien-khai-trong-nuoc",
+        "https://vtcnews.vn/lotte-eco-smart-city-thu-thiem-chuan-bi-khoi-cong-them-dau-moc-tai-thu-thiem-ar1046476.html"
+      ],
+      "claim_ledger": [
+        "Phát Đạt công bố 22/10 dự kiến khởi công dự án Lotte Eco Smart City Thủ Thiêm ngày 23/10 với tổng mức đầu tư công bố 60.000 tỷ đồng; tại thời điểm báo cáo chưa xác nhận đã tổ chức lễ."
+      ],
+      "verification": "DEVELOPER_PRIMARY_AND_MEDIA",
+      "rights_status": "FACTS_ONLY_RIGHTS_REVIEW",
+      "editorial_status": "DRAFT_NOT_INDEX_READY",
+      "published_urls": [],
+      "locales": {
+        "vi-VN": {
+          "title": "Lotte Eco Smart City dự kiến khởi công 23/10: chỉ ghi nhận kế hoạch",
+          "summary": "Thông tin do Phát Đạt phát hành ngày 22/10 cho biết dự án Lotte Eco Smart City Thủ Thiêm dự kiến khởi công ngày 23/10 và có tổng vốn đầu tư công bố 60.000 tỷ đồng. Tính đến lúc lập hồ sơ, chưa xác nhận lễ khởi công đã diễn ra hay tiến độ thi công thực tế.",
+          "business_angle": "Nhà đầu tư cần tách tổng vốn công bố, nghĩa vụ tài chính, giấy phép từng hạng mục và thời điểm xây dựng.",
+          "status": "DRAFT"
+        },
+        "en": {
+          "title": "Thu Thiem mega-project targets October 23 groundbreaking",
+          "summary": "Developer Phat Dat said on October 22 that Lotte Eco Smart City Thu Thiem was scheduled for an October 23 groundbreaking, citing a VND60 trillion overall investment plan. This file does not verify that the ceremony has occurred or that construction milestones are met.",
+          "business_angle": "Property analysis must separate headline project value, legal approvals, financing and physical delivery.",
+          "status": "DRAFT"
+        },
+        "zh-CN": {
+          "title": "守添Lotte Eco Smart City计划10月23日动工",
+          "summary": "开发合作方Phat Dat于10月22日发布消息称，项目计划10月23日动工，对外公布总投资额6万亿越盾的十倍，即60万亿越盾（60,000 billion VND）。目前尚未核实仪式已举行或工程实际进度。",
+          "business_angle": "投资者应分别核查融资、各地块许可、实际开工及交付节点。",
+          "status": "DRAFT"
+        },
+        "zh-TW": {
+          "title": "守添Lotte Eco Smart City預計10月23日動工",
+          "summary": "開發合作方Phat Dat於10月22日表示，專案預計10月23日舉行動工儀式，公布總投資額約60兆越盾。截稿時尚未確認儀式已舉行或工程進度已達標。",
+          "business_angle": "評估時應分開檢視資金、分期許可、實際施工與交付時程。",
+          "status": "DRAFT"
+        }
+      }
+    },
+    {
+      "event_id": "VN-20261023-017",
+      "slug": "vietnam-goods-week-korea",
+      "sector": "trade",
+      "event_date": "2026-10-22",
+      "discovered_date": "2026-10-23",
+      "source_urls": [
+        "https://bnews.vn/mo-rong-co-hoi-cho-nong-san-thuy-san-va-thuc-pham-viet-nam-tai-thi-truong-han-quoc/441550.html",
+        "https://baocaovien.vn/tin-tuc/co-hoi-cho-nong-san-thuy-san-va-thuc-pham-viet-nam-tai-thi-truong-han-quoc/430851.html"
+      ],
+      "claim_ledger": [
+        "Tuần hàng Việt Nam 2026 khai mạc tại LOTTE Mart Ga Seoul 22/10, dự kiến kéo dài đến 28/10; giới thiệu 64 SKU theo nguồn đối chiếu."
+      ],
+      "verification": "MULTI_COVERAGE_SAME_EVENT",
+      "rights_status": "FACTS_ONLY_RIGHTS_REVIEW",
+      "editorial_status": "DRAFT_NOT_INDEX_READY",
+      "published_urls": [],
+      "locales": {
+        "vi-VN": {
+          "title": "Tuần hàng Việt tại Hàn Quốc: kênh thử phản ứng người tiêu dùng",
+          "summary": "Chương trình Vietnam Goods Week khai mạc ngày 22/10 tại LOTTE Mart chi nhánh Ga Seoul và dự kiến kéo dài đến 28/10. Thông tin công khai nêu 64 mã hàng được giới thiệu; đây là hoạt động quảng bá và bán lẻ, chưa chứng minh xuất khẩu tăng bền vững.",
+          "business_angle": "Doanh nghiệp nên đo tỷ lệ bán hết, mua lại và điều kiện mở rộng phân phối sau sự kiện.",
+          "status": "DRAFT"
+        },
+        "en": {
+          "title": "Vietnam Goods Week tests Korean retail demand",
+          "summary": "Vietnam Goods Week opened at a Seoul LOTTE Mart branch on October 22 and is scheduled to run through October 28; coverage mentions 64 displayed product SKUs. A showcase is not the same as sustained export demand.",
+          "business_angle": "Brands should evaluate sell-through, repeat orders and permanent-listing terms.",
+          "status": "DRAFT"
+        },
+        "zh-CN": {
+          "title": "越南商品周在韩国开幕，重点在检验真实销售",
+          "summary": "越南商品周10月22日在首尔LOTTE Mart门店开幕，计划持续至10月28日，报道提及64个商品SKU。陈列和促销不能直接证明长期出口增长。",
+          "business_angle": "品牌方应跟踪动销率、复购和后续常态化上架条件。",
+          "status": "DRAFT"
+        },
+        "zh-TW": {
+          "title": "越南商品週在韓國登場，後續應看實際銷售",
+          "summary": "越南商品週10月22日於首爾LOTTE Mart門市開幕，預計至10月28日，報導提到64個商品SKU。展示與促銷並不代表長期出口需求已建立。",
+          "business_angle": "品牌應追蹤銷售率、回購及長期上架條件。",
+          "status": "DRAFT"
+        }
+      }
+    },
+    {
+      "event_id": "VN-20261023-018",
+      "slug": "quangninh-fdi-9months",
+      "sector": "investment",
+      "event_date": "2026-10-21",
+      "discovered_date": "2026-10-23",
+      "source_urls": [
+        "https://www.quangninh.gov.vn/Trang/ChiTietTinTuc.aspx?nid=170151",
+        "https://www.vietnamplus.vn/quang-ninh-uu-tien-thu-hut-fdi-chat-luong-cao-thuc-day-tang-truong-ben-vung-post1143462.vnp"
+      ],
+      "claim_ledger": [
+        "Báo cáo công khai về Quảng Ninh 9T/2026: FDI đăng ký 1.349,5 triệu USD gồm 659,68 triệu cấp mới và 689,66 triệu tăng vốn, không phải vốn giải ngân."
+      ],
+      "verification": "OFFICIAL_REPOST_AND_MEDIA_SAME_DATA",
+      "rights_status": "FACTS_ONLY_RIGHTS_REVIEW",
+      "editorial_status": "DRAFT_NOT_INDEX_READY",
+      "published_urls": [],
+      "locales": {
+        "vi-VN": {
+          "title": "Quảng Ninh: FDI chín tháng gần 1,35 tỷ USD, cần tách vốn cấp mới và tăng thêm",
+          "summary": "Nguồn tin địa phương ghi nhận 1.349,5 triệu USD FDI đăng ký trong chín tháng 2026, gồm 659,68 triệu USD cấp mới và 689,66 triệu USD tăng vốn. Các số liệu thuộc vốn đăng ký, chưa phản ánh dòng tiền giải ngân vào xây dựng nhà máy.",
+          "business_angle": "Nhà cung cấp khu công nghiệp nên tìm dự án đang xây và lịch mua sắm thay vì chỉ dựa trên tổng vốn đăng ký.",
+          "status": "DRAFT"
+        },
+        "en": {
+          "title": "Quang Ninh reports US$1.35bn in nine-month registered FDI",
+          "summary": "Public reporting puts Quang Ninh's first-nine-month 2026 registered FDI at US$1,349.5 million, split between US$659.68 million in new registrations and US$689.66 million in added capital. Registration is not disbursement.",
+          "business_angle": "Industrial-property demand should be assessed against project build-out and procurement activity.",
+          "status": "DRAFT"
+        },
+        "zh-CN": {
+          "title": "广宁前九个月登记外资约13.5亿美元",
+          "summary": "公开资料显示，广宁2026年前九个月登记外资约13.495亿美元，其中新项目约6.5968亿美元、增资约6.8966亿美元。这些是登记额，不等于已到位资金。",
+          "business_angle": "判断厂房需求时应进一步查看项目实际建设和设备采购进度。",
+          "status": "DRAFT"
+        },
+        "zh-TW": {
+          "title": "廣寧前九個月登記外資約13.5億美元",
+          "summary": "公開資料顯示，廣寧2026年前九個月登記外資約13.495億美元，其中新增登記約6.5968億美元、增資約6.8966億美元。登記資本不等於實際到位資金。",
+          "business_angle": "評估工業不動產需求時，應追蹤工廠建置與採購時程。",
+          "status": "DRAFT"
+        }
+      }
+    },
+    {
+      "event_id": "VN-20261023-019",
+      "slug": "foreign-talent-draft-resolution",
+      "sector": "policy",
+      "event_date": "2026-10-22",
+      "discovered_date": "2026-10-23",
+      "source_urls": [
+        "https://vietnamnews.vn/society/1802596/na-draft-resolution-proposes-special-mechanisms-to-attract-retain-talent-including-foreigners.html"
+      ],
+      "claim_ledger": [
+        "Bộ Nội vụ đang lấy ý kiến dự thảo nghị quyết cơ chế thu hút nhân tài gồm chuyên gia nước ngoài; chưa được ban hành."
+      ],
+      "verification": "SINGLE_SOURCE",
+      "rights_status": "FACTS_ONLY_RIGHTS_REVIEW",
+      "editorial_status": "DRAFT_NOT_INDEX_READY",
+      "published_urls": [],
+      "locales": {
+        "vi-VN": {
+          "title": "Dự thảo thu hút nhân tài nước ngoài: doanh nghiệp chưa thể áp dụng như quy định mới",
+          "summary": "Bộ Nội vụ đang lấy ý kiến dự thảo nghị quyết về cơ chế tuyển dụng, trọng dụng và phát triển nhân tài, có đề cập người nước ngoài. Đây vẫn là đề xuất chính sách, chưa phải quy phạm đang có hiệu lực.",
+          "business_angle": "Doanh nghiệp tuyển chuyên gia cần theo dõi bản cuối, phạm vi đối tượng và mối liên hệ với giấy phép lao động hiện hành.",
+          "status": "DRAFT"
+        },
+        "en": {
+          "title": "Vietnam consults on talent policies that could cover foreigners",
+          "summary": "The Ministry of Home Affairs is seeking feedback on a draft resolution addressing recruitment and development of talent, potentially including foreign experts. The draft has not been enacted.",
+          "business_angle": "Employers should monitor the final text and existing work-permit obligations before changing recruitment procedures.",
+          "status": "DRAFT"
+        },
+        "zh-CN": {
+          "title": "越南征求外籍人才政策草案意见",
+          "summary": "越南内务部门正就人才引进、培养与使用机制草案征求意见，范围可能包括外国专家。草案尚未生效。",
+          "business_angle": "企业招聘外籍人才时仍应遵守现行工作许可规定，并关注最终通过版本。",
+          "status": "DRAFT"
+        },
+        "zh-TW": {
+          "title": "越南就外籍人才措施草案徵詢意見",
+          "summary": "越南內務部門正徵求人才招募、培育與任用機制草案意見，可能涵蓋外籍專家。草案尚未成為現行法規。",
+          "business_angle": "雇主仍應遵循既有工作許可規範，並追蹤最終條文。",
+          "status": "DRAFT"
+        }
+      }
+    },
+    {
+      "event_id": "VN-20261023-020",
+      "slug": "household-time-of-use-power-tariff-draft",
+      "sector": "policy",
+      "event_date": "2026-10-22",
+      "discovered_date": "2026-10-23",
+      "source_urls": [
+        "https://baotintuc.vn/gia-dien-theo-gio-hai-hoa-muc-tieu-dieu-tiet-phu-tai-va-chi-phi-sinh-hoat-post1396598.html"
+      ],
+      "claim_ledger": [
+        "Bộ Công Thương trình dự thảo sửa Luật Điện lực ngày 20/10, có đề xuất giá điện sinh hoạt theo giờ khi đáp ứng điều kiện kỹ thuật; nguồn báo ngày 22/10."
+      ],
+      "verification": "SINGLE_SOURCE",
+      "rights_status": "FACTS_ONLY_RIGHTS_REVIEW",
+      "editorial_status": "DRAFT_NOT_INDEX_READY",
+      "published_urls": [],
+      "locales": {
+        "vi-VN": {
+          "title": "Giá điện sinh hoạt theo giờ: hiện là đề xuất, chưa áp biểu giá mới",
+          "summary": "Dự thảo sửa đổi Luật Điện lực được trình Quốc hội ngày 20/10 đề cập khả năng áp dụng giá điện sinh hoạt theo khung giờ khi đủ điều kiện kỹ thuật. Chưa có căn cứ để coi đó là biểu giá đang áp dụng trên toàn quốc.",
+          "business_angle": "Các đơn vị kinh doanh thiết bị đo đếm và tiết kiệm điện nên theo dõi thông số kỹ thuật, văn bản thi hành và lộ trình.",
+          "status": "DRAFT"
+        },
+        "en": {
+          "title": "Time-of-use residential power pricing remains a proposal",
+          "summary": "A draft Electricity Law amendment discussed in the National Assembly includes conditional time-of-use household tariffs. It does not mean a nationwide hourly tariff is already in effect.",
+          "business_angle": "Metering and energy-service providers should track technical readiness, implementing rules and rollout schedules.",
+          "status": "DRAFT"
+        },
+        "zh-CN": {
+          "title": "越南居民分时电价仍处于立法提议阶段",
+          "summary": "越南提交审议的《电力法》修订草案提出，在技术条件满足时可实行居民分时电价。目前不能视为全国已实施新价格机制。",
+          "business_angle": "智能电表及节能服务企业应关注实施细则和时间安排。",
+          "status": "DRAFT"
+        },
+        "zh-TW": {
+          "title": "越南住宅分時電價仍屬立法提案",
+          "summary": "越南國會審議中的《電力法》修正草案涉及在技術條件成熟後實施住宅分時電價，並非目前已全面適用。",
+          "business_angle": "智慧電表與節能服務業者應追蹤配套規範與上路時程。",
+          "status": "DRAFT"
+        }
+      }
+    }
+  ]
+}
